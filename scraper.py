@@ -3,6 +3,8 @@ import json
 import requests
 import google.generativeai as genai
 
+print("API_KEY from env:", os.environ.get("API_KEY"))
+
 # --- Configuration ---
 # IMPORTANT: Set your Gemini API key as an environment variable named 'API_KEY'
 # In your terminal on Mac/Linux: export API_KEY="YOUR_API_KEY"
