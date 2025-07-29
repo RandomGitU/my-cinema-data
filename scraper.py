@@ -9,7 +9,7 @@ API_KEY = os.environ.get("API_KEY")
 TICKETING_PAGE_URL = 'https://ticketing.oz.veezi.com/sessions/?siteToken=hrqx63mdmcnrd0x03w95trdshr'
 VEEZI_BASE_URL = 'https://ticketing.oz.veezi.com'
 OUTPUT_FILENAME = 'movies.json' # Changed to standard name
-GEMINI_MODEL = 'gemini-1.5-flash-latest'
+GEMINI_MODEL = 'gemini-2.5-flash'
 MAX_RETRIES = 2 # How many times to ask Gemini to fix its mistake
 
 # This schema tells Gemini how to structure the output JSON.
