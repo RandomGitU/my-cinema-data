@@ -112,5 +112,5 @@ def fetch_and_process_movies():
 
 if __name__ == "__main__":
     fetch_and_process_movies()
-    else:
-        print("\nProcess finished with errors.")
+        else:
+            print("\nProcess finished with errors.")
