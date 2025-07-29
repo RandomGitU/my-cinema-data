@@ -26,7 +26,7 @@ jobs:
       # Run the scraper, providing the NEW secret as an environment variable
       - name: Run Scraper
         env:
-          GEMINI_API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
         run: python scraper.py
 
       # This part remains the same
