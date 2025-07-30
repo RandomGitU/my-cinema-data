@@ -3,7 +3,7 @@ name: Update Movie Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *' # Run every 2 hours to be mindful of API calls
+    - cron: '0 12 * * *' # Run once a day at 12:00 PM UTC
 
 jobs:
   build-and-deploy:
