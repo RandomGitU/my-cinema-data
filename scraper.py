@@ -11,6 +11,8 @@ API_KEY = os.environ.get("API_KEY")
 TICKETING_PAGE_URL = 'https://ticketing.oz.veezi.com/sessions/?siteToken=hrqx63mdmcnrd0x03w95trdshr'
 VEEZI_BASE_URL = 'https://ticketing.oz.veezi.com'
 OUTPUT_FILENAME = 'movies.json'
+TEMP_OUTPUT_FILENAME = 'movies_temp.json'
+SOURCE_HTML_FILENAME = 'source_page.html' # To pass HTML to the fixer
 GEMINI_MODEL = 'gemini-2.5-flash'
 
 # This schema tells Gemini how to structure the output JSON.
@@ -58,12 +60,12 @@ SYSTEM_INSTRUCTION = f"""You are an expert web scraper and data extractor for ci
 
 def fetch_and_process_movies():
     """
-    Fetches HTML from the cinema website, sends it to Gemini for data extraction,
-    and saves the structured JSON data to a file.
+    Fetches HTML and tries to generate a valid movies.json.
+    If Gemini returns invalid JSON, it saves the broken text to a temp file
+    for the fixer.py script to process.
     """
     if not API_KEY:
         print("Error: API_KEY environment variable not set.")
-        print("Please set the 'API_KEY' environment variable with your Gemini API key.")
         return
 
     print(f"Fetching HTML from {TICKETING_PAGE_URL}...")
@@ -77,25 +79,22 @@ def fetch_and_process_movies():
         return
 
     print(f"Initializing Gemini AI model '{GEMINI_MODEL}'...")
+    json_text = ""
     try:
         genai.configure(api_key=API_KEY)
-        
-        model = genai.GenerativeModel(
-            model_name=GEMINI_MODEL,
-            system_instruction=SYSTEM_INSTRUCTION
-        )
-        generation_config = genai.types.GenerationConfig(
-            response_mime_type="application/json"
-        )
-        
-        print("Sending request to Gemini for data extraction. This may take a moment...")
+        model = genai.GenerativeModel(model_name=GEMINI_MODEL, system_instruction=SYSTEM_INSTRUCTION)
+        generation_config = genai.types.GenerationConfig(response_mime_type="application/json")
         
         prompt = f"Please extract the movie and session data from the following HTML content, adhering strictly to this JSON schema: {json.dumps(MOVIE_SCHEMA)}\n\nHTML Content begins below:\n{html_content}"
         
+        print("Sending request to Gemini for data extraction...")
         api_response = model.generate_content(prompt, generation_config=generation_config)
         
-        print("Received response from Gemini.")
-        
+        # Check for blocked responses
+        if not api_response.candidates:
+             print(f"CRITICAL ERROR: Gemini blocked the prompt. Reason: {api_response.prompt_feedback.block_reason}")
+             return
+
         json_text = api_response.text
         parsed_json = json.loads(json_text)
         
@@ -104,12 +103,23 @@ def fetch_and_process_movies():
             
         print(f"\nSuccessfully processed and saved data to '{OUTPUT_FILENAME}'")
 
+    except json.JSONDecodeError as e:
+        # --- THIS IS THE NEW FAILURE LOGIC ---
+        print(f"\n--- SCRAPER FAILED: Invalid JSON received from Gemini ---")
+        print(f"Error details: {e}")
+        print(f"Saving broken response to '{TEMP_OUTPUT_FILENAME}' for the fixer script.")
+        
+        # Save the broken JSON text
+        with open(TEMP_OUTPUT_FILENAME, 'w', encoding='utf-8') as f:
+            f.write(json_text)
+            
+        # Also save the original HTML, which the fixer will need for context
+        with open(SOURCE_HTML_FILENAME, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+
     except Exception as e:
-        print(f"An error occurred during the Gemini API call: {e}")
-        if 'api_response' in locals() and hasattr(api_response, 'prompt_feedback'):
-             print(f"Prompt Feedback: {api_response.prompt_feedback}")
+        print(f"An unexpected error occurred during the Gemini API call: {e}")
 
 
 if __name__ == "__main__":
     fetch_and_process_movies()
-
