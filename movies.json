@@ -6,40 +6,33 @@
     "rating": "M",
     "runtime": 109,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003560",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42151",
-        "startTime": "2025-08-15T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42151?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42152",
         "startTime": "2025-08-16T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42152?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42153",
         "startTime": "2025-08-17T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42153?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42154",
         "startTime": "2025-08-19T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42154?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42155",
         "startTime": "2025-08-20T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42155?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -52,138 +45,110 @@
     "rating": "PG",
     "runtime": 111,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003585",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42110",
-        "startTime": "2025-08-15T11:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42110?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42111",
-        "startTime": "2025-08-15T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42111?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42112",
-        "startTime": "2025-08-15T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42112?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42157",
-        "startTime": "2025-08-15T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42157?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42113",
         "startTime": "2025-08-16T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42113?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42114",
         "startTime": "2025-08-16T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42114?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42115",
         "startTime": "2025-08-16T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42115?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42158",
         "startTime": "2025-08-16T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42158?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42116",
         "startTime": "2025-08-17T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42116?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42117",
         "startTime": "2025-08-17T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42117?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42118",
         "startTime": "2025-08-17T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42118?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42159",
         "startTime": "2025-08-17T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42159?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42119",
         "startTime": "2025-08-19T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42119?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42120",
         "startTime": "2025-08-19T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42120?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42121",
         "startTime": "2025-08-19T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42121?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42160",
         "startTime": "2025-08-19T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42160?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42192",
         "startTime": "2025-08-20T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42192?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42193",
         "startTime": "2025-08-20T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42193?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42161",
         "startTime": "2025-08-20T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42161?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -196,19 +161,19 @@
     "rating": "M",
     "runtime": 95,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41478",
         "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41479",
         "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -221,19 +186,19 @@
     "rating": "PG",
     "runtime": 91,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003522",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41472",
         "startTime": "2025-08-29T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41473",
         "startTime": "2025-08-29T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -246,19 +211,19 @@
     "rating": "M",
     "runtime": 109,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41476",
         "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41477",
         "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -271,19 +236,19 @@
     "rating": "PG",
     "runtime": 110,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003519",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41474",
         "startTime": "2025-09-26T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41475",
         "startTime": "2025-09-26T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -296,110 +261,89 @@
     "rating": "M",
     "runtime": 124,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003600",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42135",
-        "startTime": "2025-08-15T11:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42135?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42136",
-        "startTime": "2025-08-15T13:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42136?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42137",
-        "startTime": "2025-08-15T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42137?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42138",
         "startTime": "2025-08-16T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42138?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42139",
         "startTime": "2025-08-16T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42139?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42140",
         "startTime": "2025-08-16T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42140?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42141",
         "startTime": "2025-08-17T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42141?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42142",
         "startTime": "2025-08-17T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42142?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42143",
         "startTime": "2025-08-17T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42143?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42144",
         "startTime": "2025-08-19T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42144?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42145",
         "startTime": "2025-08-19T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42145?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42146",
         "startTime": "2025-08-19T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42146?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42147",
         "startTime": "2025-08-20T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42147?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42148",
         "startTime": "2025-08-20T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42148?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42149",
         "startTime": "2025-08-20T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42149?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -412,12 +356,12 @@
     "rating": "M",
     "runtime": 141,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003605",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "42106",
         "startTime": "2025-09-12T20:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -430,68 +374,54 @@
     "rating": "PG",
     "runtime": 114,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003558",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42124",
-        "startTime": "2025-08-15T16:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42124?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42125",
-        "startTime": "2025-08-15T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42125?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42126",
         "startTime": "2025-08-16T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42126?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42127",
         "startTime": "2025-08-16T21:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42127?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42128",
         "startTime": "2025-08-17T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42128?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42129",
         "startTime": "2025-08-17T21:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42129?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42130",
         "startTime": "2025-08-19T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42130?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42131",
         "startTime": "2025-08-19T21:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42131?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42194",
         "startTime": "2025-08-20T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42194?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -504,75 +434,61 @@
     "rating": "M",
     "runtime": 119,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003581",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42164",
-        "startTime": "2025-08-15T11:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42164?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42165",
-        "startTime": "2025-08-15T16:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42165?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42166",
         "startTime": "2025-08-16T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42166?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42167",
         "startTime": "2025-08-16T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42167?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42168",
         "startTime": "2025-08-17T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42168?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42169",
         "startTime": "2025-08-17T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42169?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42170",
         "startTime": "2025-08-19T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42170?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42171",
         "startTime": "2025-08-19T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42171?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42172",
         "startTime": "2025-08-20T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42172?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42173",
         "startTime": "2025-08-20T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42173?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -585,110 +501,89 @@
     "rating": "M",
     "runtime": 111,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003597",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "42177",
-        "startTime": "2025-08-15T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42177?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42178",
-        "startTime": "2025-08-15T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42178?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42179",
-        "startTime": "2025-08-15T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42179?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42180",
         "startTime": "2025-08-16T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42180?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42181",
         "startTime": "2025-08-16T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42181?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42182",
         "startTime": "2025-08-16T21:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42182?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42183",
         "startTime": "2025-08-17T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42183?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42184",
         "startTime": "2025-08-17T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42185",
         "startTime": "2025-08-17T21:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42185?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42186",
         "startTime": "2025-08-19T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42186?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42187",
         "startTime": "2025-08-19T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42187?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42188",
         "startTime": "2025-08-19T21:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42188?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42189",
         "startTime": "2025-08-20T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42189?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42190",
         "startTime": "2025-08-20T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42190?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42191",
         "startTime": "2025-08-20T21:15:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42191?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -701,12 +596,12 @@
     "rating": "PG",
     "runtime": 128,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003592",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "42104",
         "startTime": "2025-08-31T14:30:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42104?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -719,12 +614,12 @@
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003594",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "42105",
         "startTime": "2025-09-06T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42105?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -737,12 +632,12 @@
     "rating": "R18",
     "runtime": 127,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003573",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41933",
         "startTime": "2025-09-10T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41933?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -755,12 +650,12 @@
     "rating": "MA15+",
     "runtime": 98,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003566",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41934",
         "startTime": "2025-09-17T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41934?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -773,12 +668,12 @@
     "rating": "MA15+",
     "runtime": 93,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003504",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41488",
         "startTime": "2025-08-27T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41488?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -791,12 +686,12 @@
     "rating": "M",
     "runtime": 116,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003575",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41932",
         "startTime": "2025-09-03T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41932?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -809,12 +704,12 @@
     "rating": "R18",
     "runtime": 102,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003492",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41487",
         "startTime": "2025-08-20T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41487?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -827,12 +722,12 @@
     "rating": "M",
     "runtime": 89,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003569",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "41935",
         "startTime": "2025-09-24T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Cinema 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41935?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
