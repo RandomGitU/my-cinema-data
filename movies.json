@@ -1,429 +1,75 @@
 [
   {
-    "id": "0000003560",
-    "title": "Four Letters of Love",
-    "synopsis": "Based on Niall Williams' best-selling novel. Nicholas and Isabel were made for each other but how will they ever know it? As ghosts, fate and the sheer power of true love pull them together, so too does life threaten to tear them apart.",
-    "rating": "M",
-    "runtime": 109,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003560",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "42152",
-        "startTime": "2025-08-16T16:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42152?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42153",
-        "startTime": "2025-08-17T16:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42153?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42154",
-        "startTime": "2025-08-19T16:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42154?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42155",
-        "startTime": "2025-08-20T16:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42155?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003585",
-    "title": "Freakier Friday",
-    "synopsis": "“Freakier Friday,” a sequel to the beloved 2003 film with a multigenerational twist starring Jamie Lee Curtis and Lindsay Lohan.\n\nIn the film, Curtis and Lohan reprise their roles as Tess and Anna Coleman. The story picks up years after Tess (Curtis) and Anna (Lohan) endured an identity crisis. Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover that lightning might indeed strike twice.",
-    "rating": "PG",
-    "runtime": 111,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003585",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "42113",
-        "startTime": "2025-08-16T11:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42113?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42114",
-        "startTime": "2025-08-16T14:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42114?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42115",
-        "startTime": "2025-08-16T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42115?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42158",
-        "startTime": "2025-08-16T21:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42158?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42116",
-        "startTime": "2025-08-17T11:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42116?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42117",
-        "startTime": "2025-08-17T14:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42117?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42118",
-        "startTime": "2025-08-17T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42118?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42159",
-        "startTime": "2025-08-17T21:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42159?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42119",
-        "startTime": "2025-08-19T11:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42119?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42120",
-        "startTime": "2025-08-19T14:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42120?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42121",
-        "startTime": "2025-08-19T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42121?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42160",
-        "startTime": "2025-08-19T21:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42160?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42192",
-        "startTime": "2025-08-20T11:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42192?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42193",
-        "startTime": "2025-08-20T14:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42193?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42161",
-        "startTime": "2025-08-20T21:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42161?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003507",
-    "title": "Magic at the Movies: Before Sunrise (1995)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
-    "rating": "M",
-    "runtime": 95,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41478",
-        "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41479",
-        "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003522",
-    "title": "Magic at the Movies: Gentlemen Prefer Blondes 1953",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nGENTLEMEN PREFER BLONDES (1953)\n\nShowgirls Lorelei Lee and Dorothy Shaw travel to Paris, pursued by a private detective hired by the suspicious father of Lorelei's fiancé, as well as a rich, enamored old man and many other doting admirers.",
-    "rating": "PG",
-    "runtime": 91,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003522",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41472",
-        "startTime": "2025-08-29T11:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41473",
-        "startTime": "2025-08-29T18:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003513",
-    "title": "Magic at the Movies: Psycho (1960)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nPSYCHO (1960)\n\nA Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
-    "rating": "M",
-    "runtime": 109,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41476",
-        "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41477",
-        "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003519",
-    "title": "Magic at the Movies: Sunset Boulevard (1950)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nSUNSET BOULEVARD (1950)\n\nA screenwriter is hired to rework a faded silent film star's script only to find himself developing a dangerous relationship.",
-    "rating": "PG",
-    "runtime": 110,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003519",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41474",
-        "startTime": "2025-09-26T11:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41475",
-        "startTime": "2025-09-26T18:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003600",
     "title": "Mr Burton",
     "synopsis": "Set against the grit of post-war Wales, MR BURTON is the extraordinary true story of a working-class boy destined for greatness and the teacher who saw it first. When Philip Burton, a principled and passionate schoolteacher in Port Talbot, meets Richie Jenkins, a volatile yet gifted teen from a fractured home, he recognises a spark that others have overlooked. Through mentorship, discipline, and love, Philip shapes Richie’s raw talent, setting him on the path to becoming Richard Burton, one of the greatest actors of the 20th century.",
     "rating": "M",
     "runtime": 124,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003600",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42138",
-        "startTime": "2025-08-16T11:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42138?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42139",
-        "startTime": "2025-08-16T13:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42139?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42140",
-        "startTime": "2025-08-16T18:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42140?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42141",
         "startTime": "2025-08-17T11:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42141?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42142",
         "startTime": "2025-08-17T13:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42142?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42143",
         "startTime": "2025-08-17T18:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42143?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42144",
         "startTime": "2025-08-19T11:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42144?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42145",
         "startTime": "2025-08-19T13:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42145?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42146",
         "startTime": "2025-08-19T18:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42146?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42147",
         "startTime": "2025-08-20T11:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42147?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42148",
         "startTime": "2025-08-20T13:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42148?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42149",
         "startTime": "2025-08-20T18:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42149?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003605",
-    "title": "Radical Rewind Cinema Club: True Lies (1994)",
-    "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nTRUE LIES (1994)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nA fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
-    "rating": "M",
-    "runtime": 141,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003605",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "42106",
-        "startTime": "2025-09-12T20:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003558",
-    "title": "The Fantastic Four: First Steps",
-    "synopsis": "Set against the vibrant backdrop of a 1960s-inspired, retro- futuristic world, Marvel Studios' \"The Fantastic Four: First Steps\" introduces Marvel's First Family-Reed Richards/Mister Fantastic (Pedro Pascal), Sue Storm/Invisible Woman (Vanessa Kirby), Johnny Storm/Human Torch (Joseph Quinn) and Ben Grimm/The Thing (Ebon Moss-Bachrach) as they face their most daunting challenge yet. \n\nForced to balance their roles as heroes with the strength of their family bond, they must defend Earth from a ravenous space god called Galactus (Ralph Ineson) and his enigmatic Herald, Silver Surfer (Julia Garner). And if Galactus' plan to devour the entire planet and everyone on it weren't bad enough, it suddenly gets very personal.",
-    "rating": "PG",
-    "runtime": 114,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003558",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "42126",
-        "startTime": "2025-08-16T16:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42126?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42127",
-        "startTime": "2025-08-16T21:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42127?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42128",
-        "startTime": "2025-08-17T16:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42128?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42129",
-        "startTime": "2025-08-17T21:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42129?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42130",
-        "startTime": "2025-08-19T16:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42130?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42131",
-        "startTime": "2025-08-19T21:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42131?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42194",
-        "startTime": "2025-08-20T16:30:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42194?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -434,63 +80,137 @@
     "rating": "M",
     "runtime": 119,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003581",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42166",
-        "startTime": "2025-08-16T11:15:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42166?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42167",
-        "startTime": "2025-08-16T16:15:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42167?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42168",
         "startTime": "2025-08-17T11:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42168?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42169",
         "startTime": "2025-08-17T16:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42169?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42170",
         "startTime": "2025-08-19T11:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42170?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42171",
         "startTime": "2025-08-19T16:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42171?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42172",
         "startTime": "2025-08-20T11:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42172?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42173",
         "startTime": "2025-08-20T16:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42173?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003585",
+    "title": "Freakier Friday",
+    "synopsis": "“Freakier Friday,” a sequel to the beloved 2003 film with a multigenerational twist starring Jamie Lee Curtis and Lindsay Lohan.\n\nIn the film, Curtis and Lohan reprise their roles as Tess and Anna Coleman. The story picks up years after Tess (Curtis) and Anna (Lohan) endured an identity crisis. Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover that lightning might indeed strike twice.",
+    "rating": "PG",
+    "runtime": 111,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003585",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "42116",
+        "startTime": "2025-08-17T11:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42116?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42117",
+        "startTime": "2025-08-17T14:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42117?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42118",
+        "startTime": "2025-08-17T19:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42118?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42159",
+        "startTime": "2025-08-17T21:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42159?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42119",
+        "startTime": "2025-08-19T11:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42119?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42120",
+        "startTime": "2025-08-19T14:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42120?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42121",
+        "startTime": "2025-08-19T19:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42121?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42160",
+        "startTime": "2025-08-19T21:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42160?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42192",
+        "startTime": "2025-08-20T11:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42192?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42193",
+        "startTime": "2025-08-20T14:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42193?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42161",
+        "startTime": "2025-08-20T21:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42161?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -501,91 +221,209 @@
     "rating": "M",
     "runtime": 111,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003597",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42180",
-        "startTime": "2025-08-16T13:45:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42180?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42181",
-        "startTime": "2025-08-16T18:45:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42181?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42182",
-        "startTime": "2025-08-16T21:15:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42182?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42183",
         "startTime": "2025-08-17T13:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42183?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42184",
         "startTime": "2025-08-17T18:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42185",
         "startTime": "2025-08-17T21:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42185?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42186",
         "startTime": "2025-08-19T13:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42186?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42187",
         "startTime": "2025-08-19T18:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42187?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42188",
         "startTime": "2025-08-19T21:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42188?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42189",
         "startTime": "2025-08-20T13:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42189?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42190",
         "startTime": "2025-08-20T18:45:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42190?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42191",
         "startTime": "2025-08-20T21:15:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42191?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003560",
+    "title": "Four Letters of Love",
+    "synopsis": "Based on Niall Williams' best-selling novel. Nicholas and Isabel were made for each other but how will they ever know it? As ghosts, fate and the sheer power of true love pull them together, so too does life threaten to tear them apart.",
+    "rating": "M",
+    "runtime": 109,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003560",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "42153",
+        "startTime": "2025-08-17T16:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42153?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42154",
+        "startTime": "2025-08-19T16:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42154?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42155",
+        "startTime": "2025-08-20T16:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42155?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003558",
+    "title": "The Fantastic Four: First Steps",
+    "synopsis": "Set against the vibrant backdrop of a 1960s-inspired, retro- futuristic world, Marvel Studios' \"The Fantastic Four: First Steps\" introduces Marvel's First Family-Reed Richards/Mister Fantastic (Pedro Pascal), Sue Storm/Invisible Woman (Vanessa Kirby), Johnny Storm/Human Torch (Joseph Quinn) and Ben Grimm/The Thing (Ebon Moss-Bachrach) as they face their most daunting challenge yet. \n\nForced to balance their roles as heroes with the strength of their family bond, they must defend Earth from a ravenous space god called Galactus (Ralph Ineson) and his enigmatic Herald, Silver Surfer (Julia Garner). And if Galactus' plan to devour the entire planet and everyone on it weren't bad enough, it suddenly gets very personal.",
+    "rating": "PG",
+    "runtime": 114,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003558",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "42128",
+        "startTime": "2025-08-17T16:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42128?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42129",
+        "startTime": "2025-08-17T21:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42129?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42130",
+        "startTime": "2025-08-19T16:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42130?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42131",
+        "startTime": "2025-08-19T21:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42131?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42194",
+        "startTime": "2025-08-20T16:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42194?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003492",
+    "title": "Windback Wednesday: RoboCop (1987)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nDETROIT... in the near future. A cop who dies in the line of duty is transformed into a chrome-plated, indestructible, crime-fighting cyborg by the corporation which now runs the police department. The only hitch: this \"perfect\" cop still seeks revenge on the sadistic creeps who mutilated him.",
+    "rating": "R18",
+    "runtime": 102,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003492",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41487",
+        "startTime": "2025-08-20T19:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41487?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003504",
+    "title": "Windback Wednesday: First Blood - Rambo (1982)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFIRST BLOOD (1982)\n\nA veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.",
+    "rating": "MA15+",
+    "runtime": 93,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003504",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41488",
+        "startTime": "2025-08-27T19:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41488?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003522",
+    "title": "Magic at the Movies: Gentlemen Prefer Blondes 1953",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nGENTLEMEN PREFER BLONDES (1953)\n\nShowgirls Lorelei Lee and Dorothy Shaw travel to Paris, pursued by a private detective hired by the suspicious father of Lorelei's fiancé, as well as a rich, enamored old man and many other doting admirers.",
+    "rating": "PG",
+    "runtime": 91,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003522",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41472",
+        "startTime": "2025-08-29T11:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41473",
+        "startTime": "2025-08-29T18:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -596,30 +434,48 @@
     "rating": "PG",
     "runtime": 128,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003592",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42104",
         "startTime": "2025-08-31T14:30:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42104?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
+    "id": "0000003575",
+    "title": "Windback Wednesday: Highlander (1986)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nHIGHLANDER (1986)\n\nAn immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
+    "rating": "M",
+    "runtime": 116,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003575",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41932",
+        "startTime": "2025-09-03T19:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41932?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
     "id": "0000003594",
     "title": "The Scientific Bubble Show",
-    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created? Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
+    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created?  Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003594",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42105",
         "startTime": "2025-09-06T11:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42105?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -632,14 +488,32 @@
     "rating": "R18",
     "runtime": 127,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003573",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "41933",
         "startTime": "2025-09-10T19:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41933?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003605",
+    "title": "Radical Rewind Cinema Club: True Lies (1994)",
+    "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nTRUE LIES (1994)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nA fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+    "rating": "M",
+    "runtime": 141,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003605",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "42106",
+        "startTime": "2025-09-12T20:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -650,86 +524,107 @@
     "rating": "MA15+",
     "runtime": 98,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003566",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "41934",
         "startTime": "2025-09-17T19:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41934?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003504",
-    "title": "Windback Wednesday: First Blood - Rambo (1982)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFIRST BLOOD (1982)\n\nA veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.",
-    "rating": "MA15+",
-    "runtime": 93,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003504",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41488",
-        "startTime": "2025-08-27T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41488?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003575",
-    "title": "Windback Wednesday: Highlander (1986)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nHIGHLANDER (1986)\n\nAn immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
-    "rating": "M",
-    "runtime": 116,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003575",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41932",
-        "startTime": "2025-09-03T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41932?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003492",
-    "title": "Windback Wednesday: RoboCop (1987)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nROBOCOP (1987)\n\nDetroit... in the near future. A cop who dies in the line of duty is transformed into a chrome-plated, indestructible, crime-fighting cyborg by the corporation which now runs the police department. The only hitch: this \"perfect\" cop still seeks revenge on the sadistic creeps who mutilated him.",
-    "rating": "R18",
-    "runtime": 102,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003492",
-    "trailerUrl": "",
-    "sessions": [
-      {
-        "id": "41487",
-        "startTime": "2025-08-20T19:00:00+09:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41487?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003569",
     "title": "Windback Wednesday: Zoolander (2001)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nZOOLANDER (2001)\n\nAt the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nAt the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
     "rating": "M",
     "runtime": 89,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003569",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "41935",
         "startTime": "2025-09-24T19:00:00+09:30",
-        "screenName": "Cinema 1",
+        "screenName": "Main Auditorium",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41935?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003519",
+    "title": "Magic at the Movies: Sunset Boulevard (1950)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nSUNSET BOULEVARD (1950)\n\nA screenwriter is hired to rework a faded silent film star's script only to find himself developing a dangerous relationship.",
+    "rating": "PG",
+    "runtime": 110,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003519",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41474",
+        "startTime": "2025-09-26T11:00:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41475",
+        "startTime": "2025-09-26T18:30:00+09:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003513",
+    "title": "Magic at the Movies: Psycho (1960)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nPSYCHO (1960)\n\nA Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+    "rating": "M",
+    "runtime": 109,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41476",
+        "startTime": "2025-10-31T11:00:00+10:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41477",
+        "startTime": "2025-10-31T18:30:00+10:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003507",
+    "title": "Magic at the Movies: Before Sunrise (1995)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
+    "rating": "M",
+    "runtime": 95,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "41478",
+        "startTime": "2025-11-28T11:00:00+10:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41479",
+        "startTime": "2025-11-28T18:30:00+10:30",
+        "screenName": "Main Auditorium",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   }
