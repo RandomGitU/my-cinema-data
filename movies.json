@@ -11,7 +11,7 @@
       {
         "id": "42284",
         "startTime": "2025-09-07T14:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42284?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -27,107 +27,86 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42331",
-        "startTime": "2025-08-29T12:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42331?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42332",
-        "startTime": "2025-08-29T16:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42332?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42333",
-        "startTime": "2025-08-29T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42333?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42334",
         "startTime": "2025-08-30T12:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42334?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42335",
         "startTime": "2025-08-30T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42335?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42336",
         "startTime": "2025-08-30T21:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42336?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42358",
         "startTime": "2025-08-31T12:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42358?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42363",
         "startTime": "2025-08-31T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42363?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42359",
         "startTime": "2025-08-31T21:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42359?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42287",
         "startTime": "2025-09-02T12:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42287?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42304",
         "startTime": "2025-09-02T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42304?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42288",
         "startTime": "2025-09-02T21:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42288?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42364",
         "startTime": "2025-09-03T12:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42364?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42305",
         "startTime": "2025-09-03T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42305?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42368",
         "startTime": "2025-09-03T20:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42368?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -143,44 +122,37 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42324",
-        "startTime": "2025-08-29T16:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42324?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42325",
         "startTime": "2025-08-30T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42325?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42356",
         "startTime": "2025-08-30T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42356?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42357",
         "startTime": "2025-08-31T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42357?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42326",
         "startTime": "2025-09-02T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42326?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42327",
         "startTime": "2025-09-03T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42327?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -196,72 +168,58 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42348",
-        "startTime": "2025-08-29T13:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42348?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42339",
-        "startTime": "2025-08-29T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42339?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42349",
         "startTime": "2025-08-30T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42349?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42340",
         "startTime": "2025-08-30T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42340?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42350",
         "startTime": "2025-08-31T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42350?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42341",
         "startTime": "2025-08-31T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42341?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42294",
         "startTime": "2025-09-02T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42294?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42329",
         "startTime": "2025-09-02T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42329?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42295",
         "startTime": "2025-09-03T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42295?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42330",
         "startTime": "2025-09-03T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42330?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -277,67 +235,60 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42354",
-        "startTime": "2025-08-29T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42354?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42355",
-        "startTime": "2025-08-29T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42355?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42317",
         "startTime": "2025-08-30T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42317?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42318",
         "startTime": "2025-08-30T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42318?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42360",
         "startTime": "2025-08-31T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42360?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42361",
         "startTime": "2025-08-31T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42361?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42319",
         "startTime": "2025-09-02T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42319?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42320",
         "startTime": "2025-09-02T18:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42320?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42321",
         "startTime": "2025-09-03T14:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42321?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42322",
+        "startTime": "2025-09-03T18:45:00+09:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42322?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -353,7 +304,7 @@
       {
         "id": "42195",
         "startTime": "2025-09-14T14:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42195?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -371,41 +322,16 @@
       {
         "id": "41478",
         "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41479",
         "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003522",
-    "title": "Magic at the Movies: Gentlemen Prefer Blondes 1953",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nGENTLEMEN PREFER BLONDES (1953)\n\nShowgirls Lorelei Lee and Dorothy Shaw travel to Paris, pursued by a private detective hired by the suspicious father of Lorelei's fiancé, as well as a rich, enamored old man and many other doting admirers.",
-    "rating": "PG",
-    "runtime": 91,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003522",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41472",
-        "startTime": "2025-08-29T11:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41473",
-        "startTime": "2025-08-29T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -421,14 +347,14 @@
       {
         "id": "41476",
         "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41477",
         "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -446,14 +372,14 @@
       {
         "id": "41474",
         "startTime": "2025-09-26T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41475",
         "startTime": "2025-09-26T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -471,21 +397,21 @@
       {
         "id": "42312",
         "startTime": "2025-08-30T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42312?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42313",
         "startTime": "2025-09-02T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42313?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42314",
         "startTime": "2025-09-03T11:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42314?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -503,7 +429,7 @@
       {
         "id": "42106",
         "startTime": "2025-09-12T20:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -519,30 +445,23 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42307",
-        "startTime": "2025-08-29T20:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42307?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42308",
         "startTime": "2025-08-30T20:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42308?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42309",
         "startTime": "2025-08-31T20:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42309?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42310",
         "startTime": "2025-09-02T20:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42310?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -558,65 +477,51 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42342",
-        "startTime": "2025-08-29T11:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42342?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42343",
-        "startTime": "2025-08-29T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42343?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42344",
         "startTime": "2025-08-30T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42344?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42345",
         "startTime": "2025-08-30T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42345?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42346",
         "startTime": "2025-08-31T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42346?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42347",
         "startTime": "2025-08-31T16:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42347?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42301",
         "startTime": "2025-09-02T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42301?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42302",
         "startTime": "2025-09-02T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42302?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42366",
         "startTime": "2025-09-03T13:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42366?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -632,86 +537,72 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42337",
-        "startTime": "2025-08-29T14:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42337?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42351",
-        "startTime": "2025-08-29T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42351?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42338",
         "startTime": "2025-08-30T14:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42338?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42352",
         "startTime": "2025-08-30T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42352?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42362",
         "startTime": "2025-08-31T14:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42362?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42353",
         "startTime": "2025-08-31T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42353?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42297",
         "startTime": "2025-09-02T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42297?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42291",
         "startTime": "2025-09-02T14:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42291?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42292",
         "startTime": "2025-09-02T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42292?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42298",
         "startTime": "2025-09-03T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42298?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42365",
         "startTime": "2025-09-03T14:15:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42365?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42367",
         "startTime": "2025-09-03T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42367?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -729,7 +620,7 @@
       {
         "id": "42104",
         "startTime": "2025-08-31T14:30:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42104?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -738,7 +629,7 @@
   {
     "id": "0000003594",
     "title": "The Scientific Bubble Show",
-    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created? Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
+    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created?  Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003594",
@@ -747,7 +638,7 @@
       {
         "id": "42105",
         "startTime": "2025-09-06T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42105?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -765,7 +656,7 @@
       {
         "id": "41933",
         "startTime": "2025-09-10T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41933?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -783,7 +674,7 @@
       {
         "id": "41934",
         "startTime": "2025-09-17T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41934?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -801,7 +692,7 @@
       {
         "id": "41932",
         "startTime": "2025-09-03T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41932?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -819,7 +710,7 @@
       {
         "id": "41935",
         "startTime": "2025-09-24T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41935?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
