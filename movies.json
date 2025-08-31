@@ -27,27 +27,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42358",
-        "startTime": "2025-08-31T12:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42358?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42363",
-        "startTime": "2025-08-31T16:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42363?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42359",
-        "startTime": "2025-08-31T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42359?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42287",
         "startTime": "2025-09-02T12:00:00+09:30",
         "screenName": null,
@@ -101,13 +80,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42357",
-        "startTime": "2025-08-31T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42357?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42326",
         "startTime": "2025-09-02T16:15:00+09:30",
         "screenName": null,
@@ -132,20 +104,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003642",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42350",
-        "startTime": "2025-08-31T13:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42350?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42341",
-        "startTime": "2025-08-31T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42341?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42294",
         "startTime": "2025-09-02T16:30:00+09:30",
@@ -185,20 +143,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003618",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42360",
-        "startTime": "2025-08-31T11:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42360?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42361",
-        "startTime": "2025-08-31T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42361?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42319",
         "startTime": "2025-09-02T14:00:00+09:30",
@@ -375,13 +319,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42309",
-        "startTime": "2025-08-31T20:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42309?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42310",
         "startTime": "2025-09-02T20:45:00+09:30",
         "screenName": null,
@@ -399,20 +336,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003647",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42346",
-        "startTime": "2025-08-31T11:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42346?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42347",
-        "startTime": "2025-08-31T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42347?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42301",
         "startTime": "2025-09-02T13:45:00+09:30",
@@ -445,20 +368,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003615",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42362",
-        "startTime": "2025-08-31T14:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42362?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42353",
-        "startTime": "2025-08-31T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42353?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42297",
         "startTime": "2025-09-02T11:45:00+09:30",
@@ -504,27 +413,9 @@
     ]
   },
   {
-    "id": "0000003592",
-    "title": "The Parent Trap",
-    "synopsis": "Get ready to celebrate one of the most beloved family films of the '90s!\n\nJoin us for a special screening of the 1998 classic, The Parent Trap, starring a phenomenal young Lindsay Lohan in her breakout role.\n\nTHE PARENT TRAP (1998)\n\nTwins Annie and Hallie are strangers until happenstance unites them. The preteen girls' divorced parents, Nick and Elizabeth are living on opposite sides of the Atlantic, each with one child. After meeting at camp, American Hallie and British-raised Annie engineer an identity swap, giving both the chance to spend time with the parent they've missed. If the scheme works, it might just make the family whole again.",
-    "rating": "PG",
-    "runtime": 128,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003592",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42104",
-        "startTime": "2025-08-31T14:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42104?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003594",
     "title": "The Scientific Bubble Show",
-    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created? Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
+    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble!\n\nHow are bubbles created?  Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003594",
