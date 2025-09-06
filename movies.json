@@ -27,27 +27,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42388",
-        "startTime": "2025-09-06T14:15:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42388?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42389",
-        "startTime": "2025-09-06T19:00:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42389?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42390",
-        "startTime": "2025-09-06T21:15:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42390?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42454",
         "startTime": "2025-09-07T16:30:00+09:30",
         "screenName": "",
@@ -114,27 +93,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003618",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42435",
-        "startTime": "2025-09-06T13:45:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42435?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42436",
-        "startTime": "2025-09-06T16:00:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42436?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42437",
-        "startTime": "2025-09-06T18:45:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42437?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42438",
         "startTime": "2025-09-07T13:45:00+09:30",
@@ -321,20 +279,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42459",
-        "startTime": "2025-09-06T11:30:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42459?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42420",
-        "startTime": "2025-09-06T16:15:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42420?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42426",
         "startTime": "2025-09-07T11:30:00+09:30",
         "screenName": "",
@@ -387,27 +331,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003615",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42376",
-        "startTime": "2025-09-06T12:00:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42376?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42377",
-        "startTime": "2025-09-06T16:30:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42377?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42449",
-        "startTime": "2025-09-06T21:00:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42449?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42453",
         "startTime": "2025-09-07T12:00:00+09:30",
@@ -468,34 +391,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003649",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42402",
-        "startTime": "2025-09-06T11:45:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42402?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42403",
-        "startTime": "2025-09-06T14:00:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42403?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42404",
-        "startTime": "2025-09-06T18:30:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42404?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42405",
-        "startTime": "2025-09-06T20:45:00+09:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42405?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42406",
         "startTime": "2025-09-07T11:45:00+09:30",
