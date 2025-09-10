@@ -1,217 +1,170 @@
 [
   {
-    "id": "0000003645",
-    "title": "Caught Stealing",
-    "synopsis": "Hank Thompson (Austin Butler) was a high-school baseball phenom who can’t play anymore, but everything else is going okay. He’s got a great girl (Zoë Kravitz), tends bar at a New York dive, and his favorite team is making an underdog run at the pennant.\n\nWhen his punk-rock neighbor Russ (Matt Smith) asks him to take care of his cat for a few days, Hank suddenly finds himself caught in the middle of a motley crew of threatening gangsters. They all want a piece of him; the problem is he has no idea why. As Hank attempts to evade their ever-tightening grip, he’s got to use all his hustle to stay alive long enough to find out…\n\nCaught Stealing is directed by Academy Award® nominee Darren Aronofsky, screenplay by Charlie Huston, based on his book of the same name. The film stars Austin Butler, Regina King, Zoë Kravitz, Matt Smith, Liev Schreiber, Vincent D’Onofrio, Griffin Dunne, Benito A Martínez Ocasio, and Carol Kane.",
-    "rating": "MA15+",
-    "runtime": 107,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003645",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42391",
-        "startTime": "2025-09-09T14:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42391?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42392",
-        "startTime": "2025-09-09T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42392?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42393",
-        "startTime": "2025-09-09T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42393?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42457",
-        "startTime": "2025-09-10T14:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42457?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42458",
-        "startTime": "2025-09-10T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42458?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003656",
     "title": "Downton Abbey: The Grand Finale",
     "synopsis": "DOWNTON ABBEY: THE GRAND FINALE, the cinematic return of the global phenomenon, follows the Crawley family and their staff as they enter the 1930s. When Mary finds herself at the center of a public scandal and the family faces financial trouble, the entire household grapples with the threat of social disgrace. The Crawleys must embrace change as the staff prepares for a new chapter with the next generation leading Downton Abbey into the future.",
     "rating": "PG",
     "runtime": 123,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003656",
-    "trailerUrl": null,
     "sessions": [
       {
         "id": "42509",
         "startTime": "2025-09-11T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42509?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42510",
         "startTime": "2025-09-11T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42510?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42511",
         "startTime": "2025-09-11T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42511?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42512",
         "startTime": "2025-09-11T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42512?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42536",
         "startTime": "2025-09-12T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42536?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42537",
         "startTime": "2025-09-12T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42537?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42538",
         "startTime": "2025-09-12T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42538?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42513",
         "startTime": "2025-09-13T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42513?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42514",
         "startTime": "2025-09-13T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42514?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42515",
         "startTime": "2025-09-13T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42515?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42516",
         "startTime": "2025-09-13T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42516?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42517",
         "startTime": "2025-09-14T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42517?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42518",
         "startTime": "2025-09-14T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42518?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42519",
         "startTime": "2025-09-14T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42519?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42520",
         "startTime": "2025-09-14T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42520?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42521",
         "startTime": "2025-09-16T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42521?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42522",
         "startTime": "2025-09-16T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42522?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42523",
         "startTime": "2025-09-16T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42523?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42524",
         "startTime": "2025-09-16T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42524?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42525",
         "startTime": "2025-09-17T11:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42525?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42526",
         "startTime": "2025-09-17T13:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42526?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42527",
         "startTime": "2025-09-17T18:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42527?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42528",
         "startTime": "2025-09-17T21:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 3",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42528?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -224,673 +177,90 @@
     "rating": "M",
     "runtime": 111,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003618",
-    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42441",
-        "startTime": "2025-09-09T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42441?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42442",
-        "startTime": "2025-09-09T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42442?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42443",
-        "startTime": "2025-09-09T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42443?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42444",
-        "startTime": "2025-09-10T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42444?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42445",
-        "startTime": "2025-09-10T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42445?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42446",
-        "startTime": "2025-09-10T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42446?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42479",
         "startTime": "2025-09-11T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42480",
         "startTime": "2025-09-11T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42480?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42481",
         "startTime": "2025-09-12T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42481?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42482",
         "startTime": "2025-09-12T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42482?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42483",
         "startTime": "2025-09-13T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42483?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42484",
         "startTime": "2025-09-13T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42484?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42485",
         "startTime": "2025-09-14T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42485?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42486",
         "startTime": "2025-09-14T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42486?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42487",
         "startTime": "2025-09-16T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42487?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42488",
         "startTime": "2025-09-16T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42488?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42489",
         "startTime": "2025-09-17T11:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42489?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42490",
         "startTime": "2025-09-17T16:15:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 2",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42490?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003610",
-    "title": "Labyrinth (1986)",
-    "synopsis": "Join us for a special screening of the 1986 classic LABYRINTH!\n\nLABYRINTH (1986)\n\nFrustrated with babysitting on yet another weekend night, Sarah (Jennifer Connelly), a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King (David Bowie). Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers. To get through it in time to save Toby, Sarah befriends the Goblins, in hopes that their loyalty isn't just another illusion in a place where nothing is as it seems.",
-    "rating": "PG",
-    "runtime": 101,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003610",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42195",
-        "startTime": "2025-09-14T14:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42195?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003659",
-    "title": "Lesbian Space Princess",
-    "synopsis": "An introverted space princess is forced to leave her home planet on an inter-gay-lactic mission to save her ex-girlfriend from the Straight White Maliens.\n\nA laugh-out-loud adventure through the far reaches of queer outer space, Lesbian Space Princess showcases the incredible talents of South Australian writers/directors, Leela Varghese and Emma Hough Hobbs. Daughter to the flamboyant lesbian Queens of Planet Clitopolis, introverted Princess Saira is devastated when her bounty-hunter girlfriend, Kiki, suddenly breaks up with her for being too needy. After Kiki is kidnapped by forgotten incels of the future, the Straight White Maliens, Saira must leave the comforts of gay space to deliver their ransom: her royal labrys (the most powerful weapon known to lesbian kind). Only problem is… she doesn’t have it! With just a 24-hour window to get her labrys and save Kiki, Princess Saira finds herself on an inter-gay-lactic journey of self-discovery that includes encounters with a problematic spaceship and a new-found friendship with gay-pop runaway Willow.\n\nAn animated comedy like no other, Lesbian Space Princess is a riotous, candy-coloured joy from start to finish: a locally made animation by emerging creatives that embraces LGBTQIA+ and culturally diverse voices, on and off-screen.",
-    "rating": "MA15+",
-    "runtime": 86,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003659",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42470",
-        "startTime": "2025-09-11T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42470?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42471",
-        "startTime": "2025-09-11T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42471?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42472",
-        "startTime": "2025-09-11T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42535",
-        "startTime": "2025-09-12T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42535?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42539",
-        "startTime": "2025-09-12T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42539?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42473",
-        "startTime": "2025-09-13T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42474",
-        "startTime": "2025-09-13T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42475",
-        "startTime": "2025-09-13T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42541",
-        "startTime": "2025-09-14T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42541?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42542",
-        "startTime": "2025-09-14T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42542?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42476",
-        "startTime": "2025-09-16T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42477",
-        "startTime": "2025-09-16T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42478",
-        "startTime": "2025-09-16T21:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42543",
-        "startTime": "2025-09-17T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42543?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003507",
-    "title": "Magic at the Movies: Before Sunrise (1995)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
-    "rating": "M",
-    "runtime": 95,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41478",
-        "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41479",
-        "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003513",
-    "title": "Magic at the Movies: Psycho (1960)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nPSYCHO (1960)\n\nA Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
-    "rating": "M",
-    "runtime": 109,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41476",
-        "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41477",
-        "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003519",
-    "title": "Magic at the Movies: Sunset Boulevard (1950)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nSUNSET BOULEVARD (1950)\n\nA screenwriter is hired to rework a faded silent film star's script only to find himself developing a dangerous relationship.",
-    "rating": "PG",
-    "runtime": 110,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003519",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41474",
-        "startTime": "2025-09-26T11:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41475",
-        "startTime": "2025-09-26T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003605",
-    "title": "Radical Rewind Cinema Club: True Lies (1994)",
-    "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nTRUE LIES (1994)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nA fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
-    "rating": "M",
-    "runtime": 141,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003605",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42106",
-        "startTime": "2025-09-12T20:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003647",
-    "title": "The Ballad of Wallis Island",
-    "synopsis": "THE BALLAD OF WALLIS ISLAND follows Charles (Tim Key), an eccentric lottery winner who lives alone on a remote island and dreams of getting his favorite musicians, McGwyer Mortimer (Tom Basden & Carey Mulligan) back together. His fantasy turns into reality when the bandmates and former lovers accept his invitation to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
-    "rating": "PG",
-    "runtime": 100,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003647",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42427",
-        "startTime": "2025-09-09T11:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42427?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42422",
-        "startTime": "2025-09-09T16:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42422?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42428",
-        "startTime": "2025-09-10T11:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42428?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42423",
-        "startTime": "2025-09-10T16:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42423?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42529",
-        "startTime": "2025-09-11T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42529?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42530",
-        "startTime": "2025-09-12T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42530?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42531",
-        "startTime": "2025-09-13T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42531?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42532",
-        "startTime": "2025-09-14T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42532?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42533",
-        "startTime": "2025-09-16T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42533?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42534",
-        "startTime": "2025-09-17T16:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42534?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003615",
-    "title": "The Naked Gun",
-    "synopsis": "Only one man has the particular set of skills... to lead Police Squad and save the world! Lt. Frank Drebin Jr. (Liam Neeson) follows in his father's footsteps in THE NAKED GUN, directed by Akiva Schaffer (Saturday Night Live, Popstar: Never Stop Never Stopping) and from producer Seth MacFarlane (Ted, Family Guy). Joining the case are cast Pamela Anderson, Paul Walter Hauser, CCH Pounder, Kevin Durand, Cody Rhodes, Liza Koshy, Eddie Yu, with Danny Huston.",
-    "rating": "M",
-    "runtime": 85,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003615",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42378",
-        "startTime": "2025-09-09T12:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42378?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42379",
-        "startTime": "2025-09-09T16:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42379?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42451",
-        "startTime": "2025-09-09T21:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42451?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42380",
-        "startTime": "2025-09-10T12:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42380?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42381",
-        "startTime": "2025-09-10T16:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42381?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003649",
-    "title": "The Roses",
-    "synopsis": "Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch): successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo’s career nosedives while Ivy’s own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites. The Roses is a reimagining of the 1989 classic film The War of the Roses, based on the novel by Warren Adler.",
-    "rating": "MA15+",
-    "runtime": 105,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003649",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42410",
-        "startTime": "2025-09-09T11:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42410?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42411",
-        "startTime": "2025-09-09T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42411?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42412",
-        "startTime": "2025-09-09T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42412?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42413",
-        "startTime": "2025-09-09T20:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42413?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42414",
-        "startTime": "2025-09-10T11:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42414?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42415",
-        "startTime": "2025-09-10T14:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42415?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42416",
-        "startTime": "2025-09-10T18:30:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42416?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42417",
-        "startTime": "2025-09-10T20:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42417?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42491",
-        "startTime": "2025-09-11T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42491?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42492",
-        "startTime": "2025-09-11T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42492?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42493",
-        "startTime": "2025-09-11T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42493?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42494",
-        "startTime": "2025-09-12T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42494?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42495",
-        "startTime": "2025-09-12T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42495?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42496",
-        "startTime": "2025-09-12T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42496?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42497",
-        "startTime": "2025-09-13T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42497?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42498",
-        "startTime": "2025-09-13T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42498?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42499",
-        "startTime": "2025-09-13T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42499?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42500",
-        "startTime": "2025-09-14T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42500?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42501",
-        "startTime": "2025-09-14T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42501?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42502",
-        "startTime": "2025-09-14T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42502?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42503",
-        "startTime": "2025-09-16T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42503?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42504",
-        "startTime": "2025-09-16T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42504?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42505",
-        "startTime": "2025-09-16T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42505?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42506",
-        "startTime": "2025-09-17T13:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42506?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42507",
-        "startTime": "2025-09-17T18:45:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42507?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42508",
-        "startTime": "2025-09-17T21:15:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42508?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -901,210 +271,413 @@
     "rating": "G",
     "runtime": 81,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003653",
-    "trailerUrl": null,
     "sessions": [
       {
         "id": "42460",
         "startTime": "2025-09-11T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42460?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42461",
         "startTime": "2025-09-11T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42461?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42462",
         "startTime": "2025-09-12T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42462?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42463",
         "startTime": "2025-09-12T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42463?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42464",
         "startTime": "2025-09-13T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42464?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42465",
         "startTime": "2025-09-13T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42465?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42540",
         "startTime": "2025-09-14T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42540?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42466",
         "startTime": "2025-09-16T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42466?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42467",
         "startTime": "2025-09-16T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42467?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42468",
         "startTime": "2025-09-17T11:45:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42468?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42469",
         "startTime": "2025-09-17T16:30:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42469?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003573",
-    "title": "Windback Wednesday: Basic Instinct (1992)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nBASIC INSTINCT (1992)\n\nMichael Douglas stars as hardboiled San Francisco detective Nick Curran, a troubled cop with a history of trigger-happy shootings and a weakness for beautiful women and dangerous relationships. Sharon Stone is Catherine Tramell, a stunning, enigmatic novelist with a talent for seduction and a history of relationships that end in death. The death of a former rock star sends Nick into the orbit of the victim’s lover, Catherine, who immediately becomes prime suspect in the murder. Catherine ignites Nick’s suspicions and his passion, and he soon becomes involved in his most dangerous liaison yet.",
-    "rating": "R18",
-    "runtime": 127,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003573",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41933",
-        "startTime": "2025-09-10T19:00:00+09:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41933?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003631",
-    "title": "Windback Wednesday: Beetlejuice (1988)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nBEETLEJUICE (1988)\n\nAfter Barbara (Geena Davis) and Adam Maitland (Alec Baldwin) die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes (Catherine O'Hara, Jeffrey Jones) and teen daughter Lydia (Winona Ryder) buy the home, the Maitlands attempt to scare them away without success. Their efforts attract Beetlejuice (Michael Keaton), a rambunctious spirit whose \"help\" quickly becomes dangerous for the Maitlands and innocent Lydia.",
-    "rating": "M",
-    "runtime": 92,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003631",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42370",
-        "startTime": "2025-10-08T19:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42370?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003639",
-    "title": "Windback Wednesday: Edward Scissorhands (1990)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nEDWARD SCISSORHANDS (1991)\n\nIn a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.",
-    "rating": "PG",
+    "id": "0000003649",
+    "title": "The Roses",
+    "synopsis": "Life seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch): successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo’s career nosedives while Ivy’s own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites. The Roses is a reimagining of the 1989 classic film The War of the Roses, based on the novel by Warren Adler.",
+    "rating": "MA15+",
     "runtime": 105,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003639",
-    "trailerUrl": null,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003649",
     "sessions": [
       {
-        "id": "42369",
-        "startTime": "2025-10-01T19:00:00+09:30",
-        "screenName": null,
+        "id": "42491",
+        "startTime": "2025-09-11T13:45:00+09:30",
+        "screenName": "Screen 2",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42369?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42491?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42492",
+        "startTime": "2025-09-11T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42492?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42493",
+        "startTime": "2025-09-11T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42493?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42494",
+        "startTime": "2025-09-12T13:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42494?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42495",
+        "startTime": "2025-09-12T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42495?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42496",
+        "startTime": "2025-09-12T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42496?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42497",
+        "startTime": "2025-09-13T13:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42497?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42498",
+        "startTime": "2025-09-13T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42498?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42499",
+        "startTime": "2025-09-13T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42499?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42500",
+        "startTime": "2025-09-14T13:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42500?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42501",
+        "startTime": "2025-09-14T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42501?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42502",
+        "startTime": "2025-09-14T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42502?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42503",
+        "startTime": "2025-09-16T13:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42503?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42504",
+        "startTime": "2025-09-16T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42504?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42505",
+        "startTime": "2025-09-16T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42505?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42506",
+        "startTime": "2025-09-17T13:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42506?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42507",
+        "startTime": "2025-09-17T18:45:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42507?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42508",
+        "startTime": "2025-09-17T21:15:00+09:30",
+        "screenName": "Screen 2",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42508?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003566",
-    "title": "Windback Wednesday: Fargo (1996)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFARGO (1996)\n\nIn this seven-time Oscar®-nominated film, things go terribly awry when small-time Minnesota car salesman Jerry Lundegaard (William H. Macy) hires two thugs (Steve Buscemi and Peter Stormare) to kidnap his wife so he can collect the ransom from his wealthy father-in-law. Once people start dying, the very chipper and very pregnant Police Chief Marge Gunderson (Frances McDormand, who won an Oscar® for her performance) takes the case. Is she up for this challenge? You betcha.",
+    "id": "0000003659",
+    "title": "Lesbian Space Princess",
+    "synopsis": "An introverted space princess is forced to leave her home planet on an inter-gay-lactic mission to save her ex-girlfriend from the Straight White Maliens.\n\nA laugh-out-loud adventure through the far reaches of queer outer space, Lesbian Space Princess showcases the incredible talents of South Australian writers/directors, Leela Varghese and Emma Hough Hobbs. Daughter to the flamboyant lesbian Queens of Planet Clitopolis, introverted Princess Saira is devastated when her bounty-hunter girlfriend, Kiki, suddenly breaks up with her for being too needy. After Kiki is kidnapped by forgotten incels of the future, the Straight White Maliens, Saira must leave the comforts of gay space to deliver their ransom: her royal labrys (the most powerful weapon known to lesbian kind). Only problem is… she doesn’t have it! With just a 24-hour window to get her labrys and save Kiki, Princess Saira finds herself on an inter-gay-lactic journey of self-discovery that includes encounters with a problematic spaceship and a new-found friendship with gay-pop runaway Willow.\n\nAn animated comedy like no other, Lesbian Space Princess is a riotous, candy-coloured joy from start to finish: a locally made animation by emerging creatives that embraces LGBTQIA+ and culturally diverse voices, on and off-screen.",
     "rating": "MA15+",
-    "runtime": 98,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003566",
-    "trailerUrl": null,
+    "runtime": 86,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003659",
     "sessions": [
       {
-        "id": "41934",
-        "startTime": "2025-09-17T19:00:00+09:30",
-        "screenName": null,
+        "id": "42470",
+        "startTime": "2025-09-11T14:00:00+09:30",
+        "screenName": "Screen 1",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41934?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42470?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42471",
+        "startTime": "2025-09-11T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42471?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42472",
+        "startTime": "2025-09-11T21:30:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42472?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42535",
+        "startTime": "2025-09-12T14:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42535?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42539",
+        "startTime": "2025-09-12T21:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42539?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42473",
+        "startTime": "2025-09-13T14:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42473?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42474",
+        "startTime": "2025-09-13T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42475",
+        "startTime": "2025-09-13T21:30:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42541",
+        "startTime": "2025-09-14T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42541?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42542",
+        "startTime": "2025-09-14T21:30:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42542?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42476",
+        "startTime": "2025-09-16T14:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42477",
+        "startTime": "2025-09-16T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42478",
+        "startTime": "2025-09-16T21:30:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42543",
+        "startTime": "2025-09-17T14:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42543?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003636",
-    "title": "Windback Wednesday: Poltergeist (1982)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nPOLTERGEIST (1982)\n\nStrange and creepy happenings beset an average California family, the Freelings -- Steve (Craig T. Nelson), Diane (JoBeth Williams), teenaged Dana (Dominique Dunne), eight-year-old Robbie (Oliver Robins), and five-year-old Carol Ann (Heather O'Rourke) -- when ghosts commune with them through the television set. Initially friendly and playful, the spirits turn unexpectedly menacing, and, when Carol Ann goes missing, Steve and Diane turn to a parapsychologist and eventually an exorcist for help.",
+    "id": "0000003647",
+    "title": "The Ballad of Wallis Island",
+    "synopsis": "THE BALLAD OF WALLIS ISLAND follows Charles (Tim Key), an eccentric lottery winner who lives alone on a remote island and dreams of getting his favorite musicians, McGwyer Mortimer (Tom Basden & Carey Mulligan) back together. His fantasy turns into reality when the bandmates and former lovers accept his invitation to play a private show at his home on Wallis Island. Old tensions resurface as Charles tries desperately to salvage his dream gig.",
+    "rating": "PG",
+    "runtime": 100,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003647",
+    "sessions": [
+      {
+        "id": "42529",
+        "startTime": "2025-09-11T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42529?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42530",
+        "startTime": "2025-09-12T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42530?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42531",
+        "startTime": "2025-09-13T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42531?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42532",
+        "startTime": "2025-09-14T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42532?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42533",
+        "startTime": "2025-09-16T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42533?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42534",
+        "startTime": "2025-09-17T16:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42534?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003605",
+    "title": "Radical Rewind Cinema Club: True Lies (1994)",
+    "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nTRUE LIES (1994)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nA fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
     "rating": "M",
-    "runtime": 114,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003636",
-    "trailerUrl": null,
+    "runtime": 141,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003605",
     "sessions": [
       {
-        "id": "42373",
-        "startTime": "2025-10-29T19:00:00+10:30",
-        "screenName": null,
+        "id": "42106",
+        "startTime": "2025-09-12T20:00:00+09:30",
+        "screenName": "Screen 1",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42373?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42106?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003625",
-    "title": "Windback Wednesday: The Crow (1994)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nTHE CROW (1994)\n\nThe night before his wedding, musician Eric Draven (Brandon Lee) and his fiancée are brutally murdered by members of a violent inner-city gang. On the anniversary of their death, Eric rises from the grave and assumes the gothic mantle of the Crow, a supernatural avenger. Tracking down the thugs responsible for the crimes and mercilessly murdering them, Eric eventually confronts head gangster Top Dollar (Michael Wincott) to complete his macabre mission.",
-    "rating": "MA15+",
+    "id": "0000003610",
+    "title": "Labyrinth (1986)",
+    "synopsis": "Join us for a special screening of the 1986 classic LABYRINTH!\n\nLABYRINTH (1986)\n\nFrustrated with babysitting on yet another weekend night, Sarah (Jennifer Connelly), a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King (David Bowie). Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers. To get through it in time to save Toby, Sarah befriends the Goblins, in hopes that their loyalty isn't just another illusion in a place where nothing is as it seems.",
+    "rating": "PG",
     "runtime": 101,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003625",
-    "trailerUrl": null,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003610",
     "sessions": [
       {
-        "id": "42372",
-        "startTime": "2025-10-22T19:00:00+10:30",
-        "screenName": null,
+        "id": "42195",
+        "startTime": "2025-09-14T14:30:00+09:30",
+        "screenName": "Screen 1",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42372?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000002685",
-    "title": "Windback Wednesday: The Lost Boys (1987)",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nTHE LOST BOYS (1987)\n\nTeenage brothers Michael (Jason Patric) and Sam (Corey Haim) move with their mother (Dianne Wiest) to a small town in northern California. While the younger Sam meets a pair of kindred spirits in geeky comic-book nerds Edward (Corey Feldman) and Alan (Jamison Newlander), the angst-ridden Michael soon falls for Star (Jami Gertz) -- who turns out to be in thrall to David (Kiefer Sutherland), leader of a local gang of vampires. Sam and his new friends must save Michael and Star from the undead.",
-    "rating": "M",
-    "runtime": 97,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000002685",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42371",
-        "startTime": "2025-10-15T19:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42371?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42195?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -1115,14 +688,187 @@
     "rating": "M",
     "runtime": 89,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003569",
-    "trailerUrl": null,
     "sessions": [
       {
         "id": "41935",
         "startTime": "2025-09-24T19:00:00+09:30",
-        "screenName": null,
+        "screenName": "Screen 1",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41935?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003519",
+    "title": "Magic at the Movies: Sunset Boulevard (1950)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nSUNSET BOULEVARD (1950)\n\nA screenwriter is hired to rework a faded silent film star's script only to find himself developing a dangerous relationship.",
+    "rating": "PG",
+    "runtime": 110,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003519",
+    "sessions": [
+      {
+        "id": "41474",
+        "startTime": "2025-09-26T11:00:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41474?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41475",
+        "startTime": "2025-09-26T18:30:00+09:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41475?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003639",
+    "title": "Windback Wednesday: Edward Scissorhands (1990)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nEDWARD SCISSORHANDS (1991)\n\nIn a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.",
+    "rating": "PG",
+    "runtime": 105,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003639",
+    "sessions": [
+      {
+        "id": "42369",
+        "startTime": "2025-10-01T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42369?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003631",
+    "title": "Windback Wednesday: Beetlejuice (1988)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nBEETLEJUICE (1988)\n\nAfter Barbara (Geena Davis) and Adam Maitland (Alec Baldwin) die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes (Catherine O'Hara, Jeffrey Jones) and teen daughter Lydia (Winona Ryder) buy the home, the Maitlands attempt to scare them away without success. Their efforts attract Beetlejuice (Michael Keaton), a rambunctious spirit whose \"help\" quickly becomes dangerous for the Maitlands and innocent Lydia.",
+    "rating": "M",
+    "runtime": 92,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003631",
+    "sessions": [
+      {
+        "id": "42370",
+        "startTime": "2025-10-08T19:00:00+10:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42370?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000002685",
+    "title": "Windback Wednesday: The Lost Boys (1987)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nTHE LOST BOYS (1987)\n\nTeenage brothers Michael (Jason Patric) and Sam (Corey Haim) move with their mother (Dianne Wiest) to a small town in northern California. While the younger Sam meets a pair of kindred spirits in geeky comic-book nerds Edward (Corey Feldman) and Alan (Jamison Newlander), the angst-ridden Michael soon falls for Star (Jami Gertz) -- who turns out to be in thrall to David (Kiefer Sutherland), leader of a local gang of vampires. Sam and his new friends must save Michael and Star from the undead.",
+    "rating": "M",
+    "runtime": 97,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000002685",
+    "sessions": [
+      {
+        "id": "42371",
+        "startTime": "2025-10-15T19:00:00+10:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42371?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003625",
+    "title": "Windback Wednesday: The Crow (1994)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nTHE CROW (1994)\n\nThe night before his wedding, musician Eric Draven (Brandon Lee) and his fiancée are brutally murdered by members of a violent inner-city gang. On the anniversary of their death, Eric rises from the grave and assumes the gothic mantle of the Crow, a supernatural avenger. Tracking down the thugs responsible for the crimes and mercilessly murdering them, Eric eventually confronts head gangster Top Dollar (Michael Wincott) to complete his macabre mission.",
+    "rating": "MA15+",
+    "runtime": 101,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003625",
+    "sessions": [
+      {
+        "id": "42372",
+        "startTime": "2025-10-22T19:00:00+10:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42372?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003636",
+    "title": "Windback Wednesday: Poltergeist (1982)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nPOLTERGEIST (1982)\n\nStrange and creepy happenings beset an average California family, the Freelings -- Steve (Craig T. Nelson), Diane (JoBeth Williams), teenaged Dana (Dominique Dunne), eight-year-old Robbie (Oliver Robins), and five-year-old Carol Ann (Heather O'Rourke) -- when ghosts commune with them through the television set. Initially friendly and playful, the spirits turn unexpectedly menacing, and, when Carol Ann goes missing, Steve and Diane turn to a parapsychologist and eventually an exorcist for help.",
+    "rating": "M",
+    "runtime": 114,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003636",
+    "sessions": [
+      {
+        "id": "42373",
+        "startTime": "2025-10-29T19:00:00+10:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42373?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003513",
+    "title": "Magic at the Movies: Psycho (1960)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nPSYCHO (1960)\n\nA Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+    "rating": "M",
+    "runtime": 109,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
+    "sessions": [
+      {
+        "id": "41476",
+        "startTime": "2025-10-31T11:00:00+10:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41477",
+        "startTime": "2025-10-31T18:30:00+10:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003507",
+    "title": "Magic at the Movies: Before Sunrise (1995)",
+    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
+    "rating": "M",
+    "runtime": 95,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
+    "sessions": [
+      {
+        "id": "41478",
+        "startTime": "2025-11-28T11:00:00+10:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "41479",
+        "startTime": "2025-11-28T18:30:00+10:30",
+        "screenName": "Screen 3",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "0000003566",
+    "title": "Windback Wednesday: Fargo (1996)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFARGO (1996)\n\nIn this seven-time Oscar®-nominated film, things go terribly awry when small-time Minnesota car salesman Jerry Lundegaard (William H. Macy) hires two thugs (Steve Buscemi and Peter Stormare) to kidnap his wife so he can collect the ransom from his wealthy father-in-law. Once people start dying, the very chipper and very pregnant Police Chief Marge Gunderson (Frances McDormand, who won an Oscar® for her performance) takes the case. Is she up for this challenge? You betcha.",
+    "rating": "MA15+",
+    "runtime": 98,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003566",
+    "sessions": [
+      {
+        "id": "41934",
+        "startTime": "2025-09-17T19:00:00+09:30",
+        "screenName": "Screen 1",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41934?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   }
