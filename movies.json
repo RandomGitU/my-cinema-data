@@ -6,13 +6,15 @@
     "rating": "PG",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003722",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42632",
         "startTime": "2025-10-31T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42632?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -24,20 +26,15 @@
     "rating": "G",
     "runtime": 55,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003705",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42917",
-        "startTime": "2025-10-11T17:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42917?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42918",
         "startTime": "2025-10-12T17:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42918?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -49,7 +46,7 @@
     "rating": "PG",
     "runtime": 123,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003656",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42953",
@@ -74,13 +71,15 @@
     "rating": "M",
     "runtime": 89,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003725",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42633",
         "startTime": "2025-10-31T21:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42633?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -92,22 +91,8 @@
     "rating": "G",
     "runtime": 98,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003680",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42931",
-        "startTime": "2025-10-11T10:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42931?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42932",
-        "startTime": "2025-10-11T12:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42932?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42933",
         "startTime": "2025-10-12T10:00:00+10:30",
@@ -131,29 +116,8 @@
     "rating": "PG",
     "runtime": 107,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003718",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42919",
-        "startTime": "2025-10-11T10:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42919?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42920",
-        "startTime": "2025-10-11T12:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42920?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42896",
-        "startTime": "2025-10-11T18:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42896?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42921",
         "startTime": "2025-10-12T10:00:00+10:30",
@@ -186,7 +150,9 @@
         "id": "42943",
         "startTime": "2025-10-14T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42943?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -200,7 +166,9 @@
         "id": "42944",
         "startTime": "2025-10-15T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42944?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -212,7 +180,7 @@
     "rating": "M",
     "runtime": 95,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003507",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "41478",
@@ -237,7 +205,7 @@
     "rating": "M",
     "runtime": 109,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "41476",
@@ -262,13 +230,15 @@
     "rating": "PG",
     "runtime": 116,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003745",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42753",
         "startTime": "2025-11-07T20:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42753?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -280,48 +250,24 @@
     "rating": "PG",
     "runtime": 104,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003682",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42907",
-        "startTime": "2025-10-11T10:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42907?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42908",
-        "startTime": "2025-10-11T12:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42908?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42935",
-        "startTime": "2025-10-11T14:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42935?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42929",
-        "startTime": "2025-10-11T16:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42929?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42909",
         "startTime": "2025-10-12T10:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42909?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42910",
         "startTime": "2025-10-12T12:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42910?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -361,13 +307,15 @@
     "rating": "PG",
     "runtime": 121,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003805",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42865",
         "startTime": "2025-11-16T14:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42865?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -379,7 +327,7 @@
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003823",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42967",
@@ -397,22 +345,8 @@
     "rating": "M",
     "runtime": 123,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003798",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42937",
-        "startTime": "2025-10-11T16:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42937?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42900",
-        "startTime": "2025-10-11T21:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42900?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42938",
         "startTime": "2025-10-12T16:15:00+10:30",
@@ -467,33 +401,12 @@
   {
     "id": "0000003676",
     "title": "The Travellers",
-    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother.  What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n",
+    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother.  What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n\n",
     "rating": "M",
     "runtime": 97,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003676",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42923",
-        "startTime": "2025-10-11T14:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42923?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42924",
-        "startTime": "2025-10-11T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42924?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42925",
-        "startTime": "2025-10-11T20:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42925?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42926",
         "startTime": "2025-10-12T14:15:00+10:30",
@@ -573,90 +486,87 @@
     "rating": "M",
     "runtime": 111,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003821",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
-      {
-        "id": "42911",
-        "startTime": "2025-10-11T14:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42911?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42912",
-        "startTime": "2025-10-11T18:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42912?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42913",
-        "startTime": "2025-10-11T21:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42913?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "42914",
         "startTime": "2025-10-12T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42914?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42915",
         "startTime": "2025-10-12T18:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42915?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42916",
         "startTime": "2025-10-12T21:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42916?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42939",
         "startTime": "2025-10-14T11:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42939?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42940",
         "startTime": "2025-10-14T14:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42940?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42941",
         "startTime": "2025-10-14T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42941?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42942",
         "startTime": "2025-10-14T21:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42942?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42958",
         "startTime": "2025-10-15T11:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42958?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "42959",
         "startTime": "2025-10-15T14:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42959?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -682,13 +592,15 @@
     "rating": "M",
     "runtime": 105,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003769",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42755",
         "startTime": "2025-11-12T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42755?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -700,13 +612,15 @@
     "rating": "M",
     "runtime": 113,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003762",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42756",
         "startTime": "2025-11-19T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42756?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -718,13 +632,15 @@
     "rating": "M",
     "runtime": 114,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003636",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42373",
         "startTime": "2025-10-29T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42373?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -736,13 +652,15 @@
     "rating": "R18",
     "runtime": 154,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003765",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42754",
         "startTime": "2025-11-05T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42754?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -754,13 +672,15 @@
     "rating": "M",
     "runtime": 128,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003788",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42758",
         "startTime": "2025-12-03T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42758?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -772,13 +692,15 @@
     "rating": "M",
     "runtime": 133,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003772",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42757",
         "startTime": "2025-11-26T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42757?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -790,13 +712,15 @@
     "rating": "MA15+",
     "runtime": 101,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003625",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42372",
         "startTime": "2025-10-22T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42372?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -808,13 +732,15 @@
     "rating": "M",
     "runtime": 97,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000002685",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42371",
         "startTime": "2025-10-15T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [],
+        "attributes": [
+          "Cinema 1"
+        ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42371?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
