@@ -2,7 +2,7 @@
   {
     "id": "0000003722",
     "title": "Casper (1995)",
-    "synopsis": "We’ve got a full night of spooky fun planned for you this Halloween, and you won’t want to miss a minute of it! Here’s what’s in store:\n\n5:00 PM: Trick or Treat Scavenger Hunt -\nKick off the evening with a fun scavenger hunt around Semaphore Road! Purchase a ticket to 'Casper (1995)' and grab your goodie bag and map, then visit participating local businesses for cool Halloween treats.\n\n6:30 PM: Casper -\nAfter the scavenger hunt, settle in for a screening of this  family-friendly spooky classic! A perfect Halloween treat for all ages!\n\n\nCASPER (1995)\n\nAn afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
+    "synopsis": "We’ve got a full night of spooky fun planned for you this Halloween, and you won’t want to miss a minute of it! Here’s what’s in store:\n\n5:00 PM: Trick or Treat Scavenger Hunt -\nKick off the evening with a fun scavenger hunt around Semaphore Road! Purchase a ticket to 'Casper (1995)' and grab your goodie bag and map, then visit participating local businesses for cool Halloween treats.\n\n6:30 PM: Casper -\nAfter the scavenger hunt, settle in for a screening of this family-friendly spooky classic! A perfect Halloween treat for all ages!\n\n\nCASPER (1995)\n\nAn afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
     "rating": "PG",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003722",
@@ -29,51 +29,37 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43002",
-        "startTime": "2025-10-17T11:15:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43002?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43003",
-        "startTime": "2025-10-17T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43003?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43037",
-        "startTime": "2025-10-19T15:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43037?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43004",
         "startTime": "2025-10-21T11:15:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43004?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43005",
-        "startTime": "2025-10-21T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43005?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43006",
         "startTime": "2025-10-22T11:15:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43006?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43037",
+        "startTime": "2025-10-19T15:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43037?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43005",
+        "startTime": "2025-10-21T16:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43005?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "43007",
         "startTime": "2025-10-22T16:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43007?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -109,16 +95,9 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43032",
-        "startTime": "2025-10-18T11:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43032?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43033",
         "startTime": "2025-10-19T11:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43033?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -134,58 +113,44 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43020",
-        "startTime": "2025-10-17T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43020?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43034",
-        "startTime": "2025-10-18T13:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43034?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43035",
         "startTime": "2025-10-19T13:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43035?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43038",
-        "startTime": "2025-10-19T18:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43038?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43010",
         "startTime": "2025-10-21T13:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43010?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43011",
-        "startTime": "2025-10-21T18:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43011?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43012",
         "startTime": "2025-10-22T13:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43012?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43038",
+        "startTime": "2025-10-19T18:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43038?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43011",
+        "startTime": "2025-10-21T18:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43011?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "43013",
         "startTime": "2025-10-22T18:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43013?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -203,14 +168,14 @@
       {
         "id": "41478",
         "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41479",
         "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -228,14 +193,14 @@
       {
         "id": "41476",
         "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41477",
         "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -271,16 +236,9 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43024",
-        "startTime": "2025-10-18T11:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43024?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43025",
         "startTime": "2025-10-19T11:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43025?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -289,7 +247,7 @@
   {
     "id": "0000003805",
     "title": "The Incredibles (2004)",
-    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs.  Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
+    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs. Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
     "rating": "PG",
     "runtime": 121,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003805",
@@ -316,27 +274,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43021",
-        "startTime": "2025-10-17T18:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43021?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43036",
-        "startTime": "2025-10-18T19:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43036?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43039",
-        "startTime": "2025-10-19T21:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43039?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42976",
         "startTime": "2025-10-21T16:30:00+10:30",
         "screenName": "Cinema 1",
@@ -344,15 +281,6 @@
           "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42976?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42977",
-        "startTime": "2025-10-21T21:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42977?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43040",
@@ -364,9 +292,25 @@
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43040?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43039",
+        "startTime": "2025-10-19T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43039?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42977",
+        "startTime": "2025-10-21T21:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42977?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "43041",
         "startTime": "2025-10-22T21:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43041?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -375,7 +319,7 @@
   {
     "id": "0000003823",
     "title": "The Scientific Bubble Show",
-    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble in this LIVE and IN-PERSON show!\n\nHow are bubbles created?  Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
+    "synopsis": "Discover the amazing science of bubbles with Bubble-ologist Marty McBubble in this LIVE and IN-PERSON show!\n\nHow are bubbles created? Why do they pop?\nWhat shapes and colours can bubbles make?\nIs a bubble a solid, a liquid, or a gas?\nWhat's it like to be inside a bubble?\n\nChildren will discover all of this and much more as Marty engages their natural sense of wonder with his interactive, bubbly experiments.\n\nTickets: $15 / Family Ticket (2 Adults + 2 Children: $50",
     "rating": "G",
     "runtime": 60,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003823",
@@ -384,7 +328,7 @@
       {
         "id": "42967",
         "startTime": "2025-11-01T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42967?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -393,144 +337,95 @@
   {
     "id": "0000003676",
     "title": "The Travellers",
-    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother.  What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.",
+    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother. What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n",
     "rating": "M",
     "runtime": 97,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003676",
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42982",
-        "startTime": "2025-10-17T11:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42982?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42983",
-        "startTime": "2025-10-17T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42983?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42984",
-        "startTime": "2025-10-17T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42984?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42985",
-        "startTime": "2025-10-17T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42985?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43026",
-        "startTime": "2025-10-18T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43026?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43027",
-        "startTime": "2025-10-18T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43027?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43028",
-        "startTime": "2025-10-18T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43028?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43029",
-        "startTime": "2025-10-19T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43029?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43030",
-        "startTime": "2025-10-19T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43030?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43031",
-        "startTime": "2025-10-19T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43031?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42986",
         "startTime": "2025-10-21T11:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42986?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "42987",
-        "startTime": "2025-10-21T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42987?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42988",
-        "startTime": "2025-10-21T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42988?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42989",
-        "startTime": "2025-10-21T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42989?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43015",
-        "startTime": "2025-10-21T21:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43015?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42990",
         "startTime": "2025-10-22T11:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42990?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43029",
+        "startTime": "2025-10-19T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43029?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42987",
+        "startTime": "2025-10-21T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42987?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "42991",
         "startTime": "2025-10-22T13:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42991?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43030",
+        "startTime": "2025-10-19T16:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43030?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42988",
+        "startTime": "2025-10-21T16:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42988?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "42992",
         "startTime": "2025-10-22T16:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42992?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43031",
+        "startTime": "2025-10-19T18:30:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43031?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42989",
+        "startTime": "2025-10-21T18:30:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42989?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "42993",
         "startTime": "2025-10-22T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42993?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43015",
+        "startTime": "2025-10-21T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43015?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -544,63 +439,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43016",
-        "startTime": "2025-10-17T11:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43016?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43017",
-        "startTime": "2025-10-17T14:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43017?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42995",
-        "startTime": "2025-10-17T20:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42995?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43022",
-        "startTime": "2025-10-18T12:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43022?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42996",
-        "startTime": "2025-10-18T20:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42996?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43023",
-        "startTime": "2025-10-19T12:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43023?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42997",
-        "startTime": "2025-10-19T20:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42997?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "42971",
         "startTime": "2025-10-21T11:30:00+10:30",
         "screenName": "Cinema 1",
@@ -608,31 +446,6 @@
           "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42971?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42972",
-        "startTime": "2025-10-21T14:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42972?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42973",
-        "startTime": "2025-10-21T18:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42973?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "42998",
-        "startTime": "2025-10-21T20:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42998?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43018",
@@ -644,6 +457,24 @@
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43018?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "43023",
+        "startTime": "2025-10-19T12:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43023?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42972",
+        "startTime": "2025-10-21T14:00:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42972?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "43019",
         "startTime": "2025-10-22T14:00:00+10:30",
         "screenName": "Cinema 1",
@@ -653,9 +484,32 @@
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43019?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
+        "id": "42973",
+        "startTime": "2025-10-21T18:45:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42973?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42997",
+        "startTime": "2025-10-19T20:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42997?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "42998",
+        "startTime": "2025-10-21T20:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42998?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
         "id": "42999",
         "startTime": "2025-10-22T20:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42999?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
