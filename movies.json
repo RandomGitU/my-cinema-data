@@ -11,70 +11,30 @@
       {
         "id": "43162",
         "startTime": "2025-11-01T10:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43162?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43163",
         "startTime": "2025-11-01T12:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43163?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43164",
         "startTime": "2025-11-02T10:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43164?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43165",
         "startTime": "2025-11-02T12:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43165?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003722",
-    "title": "Casper (1995)",
-    "synopsis": "We’ve got a full night of spooky fun planned for you this Halloween, and you won’t want to miss a minute of it! Here’s what’s in store:\n\n5:00 PM: Trick or Treat Scavenger Hunt -\nKick off the evening with a fun scavenger hunt around Semaphore Road! Purchase a ticket to 'Casper (1995)' and grab your goodie bag and map, then visit participating local businesses for cool Halloween treats.\n\n6:30 PM: Casper -\nAfter the scavenger hunt, settle in for a screening of this  family-friendly spooky classic! A perfect Halloween treat for all ages!\n\n\nCASPER (1995)\n\nAn afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
-    "rating": "PG",
-    "runtime": 100,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003722",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42632",
-        "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "This cinema is NOT wheelchair accessible"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42632?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003725",
-    "title": "Eraserhead (1977)",
-    "synopsis": "Henry (John Nance) resides alone in a bleak apartment surrounded by industrial gloom. When he discovers that an earlier fling with Mary X (Charlotte Stewart) left her pregnant, he marries the expectant mother and has her move in with him. Things take a decidedly strange turn when the couple's baby turns out to be a bizarre lizard-like creature that won't stop wailing. Other characters, including a disfigured lady who lives inside a radiator, inhabit the building and add to Henry's troubles.",
-    "rating": "M",
-    "runtime": 89,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003725",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42633",
-        "startTime": "2025-10-31T21:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "This cinema is NOT wheelchair accessible"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42633?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -88,51 +48,37 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43129",
-        "startTime": "2025-10-31T13:15:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43129?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43130",
-        "startTime": "2025-10-31T19:00:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43130?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43160",
         "startTime": "2025-11-01T19:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43160?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43161",
         "startTime": "2025-11-02T19:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43161?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43131",
         "startTime": "2025-11-04T13:15:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43131?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43132",
         "startTime": "2025-11-04T19:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43132?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43179",
         "startTime": "2025-11-05T13:15:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43179?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -152,7 +98,7 @@
         "startTime": "2025-11-01T13:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43148?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -161,7 +107,7 @@
         "startTime": "2025-11-01T18:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43149?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -170,7 +116,7 @@
         "startTime": "2025-11-02T11:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43174?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -179,7 +125,7 @@
         "startTime": "2025-11-02T13:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43175?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -188,7 +134,7 @@
         "startTime": "2025-11-02T18:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43176?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -206,41 +152,16 @@
       {
         "id": "41478",
         "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41479",
         "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003513",
-    "title": "Magic at the Movies: Psycho (1960)",
-    "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nPSYCHO (1960)\n\nA Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
-    "rating": "M",
-    "runtime": 109,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003513",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "41476",
-        "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41476?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "41477",
-        "startTime": "2025-10-31T18:30:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41477?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -256,28 +177,28 @@
       {
         "id": "43154",
         "startTime": "2025-11-01T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43154?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43155",
         "startTime": "2025-11-01T15:45:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43155?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43156",
         "startTime": "2025-11-02T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43156?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43157",
         "startTime": "2025-11-02T15:45:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43157?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -297,7 +218,7 @@
         "startTime": "2025-11-07T20:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42753?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -313,58 +234,44 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43146",
-        "startTime": "2025-10-31T13:30:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43146?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43147",
-        "startTime": "2025-10-31T16:00:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43147?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43166",
         "startTime": "2025-11-01T13:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43166?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43167",
         "startTime": "2025-11-01T18:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43167?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43168",
         "startTime": "2025-11-01T21:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43168?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43169",
         "startTime": "2025-11-02T13:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43169?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43170",
         "startTime": "2025-11-02T18:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43170?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43171",
         "startTime": "2025-11-02T21:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43171?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -373,35 +280,35 @@
         "startTime": "2025-11-04T11:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43109?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43140",
         "startTime": "2025-11-04T13:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43140?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43141",
         "startTime": "2025-11-04T16:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43141?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43142",
         "startTime": "2025-11-04T18:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43142?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43143",
         "startTime": "2025-11-04T21:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43143?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -410,28 +317,28 @@
         "startTime": "2025-11-05T11:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43110?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43181",
         "startTime": "2025-11-05T13:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43181?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43182",
         "startTime": "2025-11-05T16:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43182?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43183",
         "startTime": "2025-11-05T18:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43183?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -447,27 +354,9 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43144",
-        "startTime": "2025-10-31T11:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "This cinema is NOT wheelchair accessible"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43144?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43145",
-        "startTime": "2025-10-31T13:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "This cinema is NOT wheelchair accessible"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43145?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43158",
         "startTime": "2025-11-01T13:15:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43158?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -476,7 +365,7 @@
         "startTime": "2025-11-01T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43150?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -485,14 +374,14 @@
         "startTime": "2025-11-01T20:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43151?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43159",
         "startTime": "2025-11-02T13:15:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43159?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -501,7 +390,7 @@
         "startTime": "2025-11-02T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43152?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -510,14 +399,14 @@
         "startTime": "2025-11-02T20:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43153?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43134",
         "startTime": "2025-11-04T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43134?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -526,7 +415,7 @@
         "startTime": "2025-11-04T13:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43115?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -535,7 +424,7 @@
         "startTime": "2025-11-04T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43116?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -544,7 +433,7 @@
         "startTime": "2025-11-04T18:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43117?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -553,14 +442,14 @@
         "startTime": "2025-11-04T21:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43118?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43135",
         "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43135?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -569,7 +458,7 @@
         "startTime": "2025-11-05T13:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43177?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -578,14 +467,14 @@
         "startTime": "2025-11-05T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43178?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43180",
         "startTime": "2025-11-05T18:45:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43180?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -605,7 +494,7 @@
         "startTime": "2025-11-16T14:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42865?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -621,58 +510,44 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43121",
-        "startTime": "2025-10-31T11:00:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43121?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43122",
-        "startTime": "2025-10-31T16:30:00+10:30",
-        "screenName": "Main Auditorium",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43122?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43172",
         "startTime": "2025-11-01T16:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43172?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43173",
         "startTime": "2025-11-02T16:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43173?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43123",
         "startTime": "2025-11-04T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43123?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43124",
         "startTime": "2025-11-04T16:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43124?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43125",
         "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43125?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43126",
         "startTime": "2025-11-05T16:30:00+10:30",
-        "screenName": "Main Auditorium",
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43126?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -692,7 +567,7 @@
         "startTime": "2025-11-12T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42755?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -712,7 +587,7 @@
         "startTime": "2025-11-19T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42756?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -732,7 +607,7 @@
         "startTime": "2025-11-05T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42754?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -752,7 +627,7 @@
         "startTime": "2025-12-03T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42758?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -772,7 +647,7 @@
         "startTime": "2025-11-26T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "This cinema is NOT wheelchair accessible"
+          "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42757?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
