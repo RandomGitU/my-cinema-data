@@ -1,30 +1,5 @@
 [
   {
-    "id": "0000003710",
-    "title": "A Paw Patrol Christmas",
-    "synopsis": "When Santa gets ill, Christmas is cancelled in Adventure Bay, Mayor Humdinger goes to the North Pole to take all the gifts for himself. Rubble and the rest of the PAW Patrol will have to make a sacrifice to stop Mayor Humdinger from ruining Christmas!",
-    "rating": "G",
-    "runtime": 55,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003710",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43164",
-        "startTime": "2025-11-02T10:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43164?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43165",
-        "startTime": "2025-11-02T12:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43165?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003703",
     "title": "Frankenstein",
     "synopsis": "Oscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
@@ -34,70 +9,25 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43161",
-        "startTime": "2025-11-02T19:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43161?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43131",
         "startTime": "2025-11-04T13:15:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43131?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43132",
         "startTime": "2025-11-04T19:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43132?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43179",
         "startTime": "2025-11-05T13:15:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43179?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003845",
-    "title": "K-Pop Demon Hunters Sing-Along",
-    "synopsis": "We're goin' up, up, up — and now it's YOUR moment! For one weekend only, seal the Honmoon and sing your favourite KPop Demon Hunters songs with HUNTR/X and the Saja Boys in this full-length, sing-along version of the Netflix hit film.",
-    "rating": "PG",
-    "runtime": 95,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003845",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43174",
-        "startTime": "2025-11-02T11:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43174?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43175",
-        "startTime": "2025-11-02T13:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43175?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43176",
-        "startTime": "2025-11-02T18:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43176?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -113,41 +43,16 @@
       {
         "id": "41478",
         "startTime": "2025-11-28T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41478?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "41479",
         "startTime": "2025-11-28T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/41479?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003813",
-    "title": "Night of the Zoopocalypse",
-    "synopsis": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
-    "rating": "PG",
-    "runtime": 91,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003813",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43156",
-        "startTime": "2025-11-02T11:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43156?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43157",
-        "startTime": "2025-11-02T15:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43157?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
@@ -181,27 +86,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43169",
-        "startTime": "2025-11-02T13:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43169?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43170",
-        "startTime": "2025-11-02T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43170?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43171",
-        "startTime": "2025-11-02T21:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43171?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43109",
         "startTime": "2025-11-04T11:15:00+10:30",
         "screenName": "Cinema 1",
@@ -213,28 +97,28 @@
       {
         "id": "43140",
         "startTime": "2025-11-04T13:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43140?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43141",
         "startTime": "2025-11-04T16:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43141?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43142",
         "startTime": "2025-11-04T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43142?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43143",
         "startTime": "2025-11-04T21:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43143?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -250,21 +134,21 @@
       {
         "id": "43181",
         "startTime": "2025-11-05T13:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43181?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43182",
         "startTime": "2025-11-05T16:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43182?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43183",
         "startTime": "2025-11-05T18:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43183?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -280,34 +164,9 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43159",
-        "startTime": "2025-11-02T13:15:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43159?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43152",
-        "startTime": "2025-11-02T16:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43152?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43153",
-        "startTime": "2025-11-02T20:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43153?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43134",
         "startTime": "2025-11-04T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43134?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -350,7 +209,7 @@
       {
         "id": "43135",
         "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43135?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -375,7 +234,7 @@
       {
         "id": "43180",
         "startTime": "2025-11-05T18:45:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43180?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -384,7 +243,7 @@
   {
     "id": "0000003805",
     "title": "The Incredibles (2004)",
-    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs.  Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
+    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs. Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
     "rating": "PG",
     "runtime": 121,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003805",
@@ -404,44 +263,37 @@
   {
     "id": "0000003676",
     "title": "The Travellers",
-    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother.  What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n\n",
+    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother. What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n",
     "rating": "M",
     "runtime": 97,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003676",
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43173",
-        "startTime": "2025-11-02T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43173?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43123",
         "startTime": "2025-11-04T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43123?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43124",
         "startTime": "2025-11-04T16:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43124?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43125",
         "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43125?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43126",
         "startTime": "2025-11-05T16:30:00+10:30",
-        "screenName": null,
+        "screenName": "",
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43126?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
