@@ -86,24 +86,6 @@
     ]
   },
   {
-    "id": "0000003703",
-    "title": "Frankenstein",
-    "synopsis": "Oscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-    "rating": "MA15+",
-    "runtime": 150,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003703",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43179",
-        "startTime": "2025-11-05T13:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43179?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003507",
     "title": "Magic at the Movies: Before Sunrise (1995)",
     "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
@@ -137,13 +119,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003813",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43207",
-        "startTime": "2025-11-06T16:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43207?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43208",
         "startTime": "2025-11-07T16:15:00+10:30",
@@ -204,51 +179,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003908",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43189",
-        "startTime": "2025-11-06T12:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43189?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43190",
-        "startTime": "2025-11-06T14:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43190?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43191",
-        "startTime": "2025-11-06T16:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43191?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43192",
-        "startTime": "2025-11-06T19:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43192?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43193",
-        "startTime": "2025-11-06T21:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43193?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43225",
         "startTime": "2025-11-07T12:00:00+10:30",
@@ -462,57 +392,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43110",
-        "startTime": "2025-11-05T11:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43110?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43181",
-        "startTime": "2025-11-05T13:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43181?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43182",
-        "startTime": "2025-11-05T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43182?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43183",
-        "startTime": "2025-11-05T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43183?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43219",
-        "startTime": "2025-11-06T13:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43219?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43220",
-        "startTime": "2025-11-06T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43220?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43221",
-        "startTime": "2025-11-06T21:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43221?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43237",
         "startTime": "2025-11-07T13:30:00+10:30",
         "screenName": "",
@@ -586,66 +465,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003807",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43135",
-        "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43135?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43177",
-        "startTime": "2025-11-05T13:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43177?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43178",
-        "startTime": "2025-11-05T16:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43178?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43180",
-        "startTime": "2025-11-05T18:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43180?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43199",
-        "startTime": "2025-11-06T11:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43199?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43200",
-        "startTime": "2025-11-06T13:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43200?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43201",
-        "startTime": "2025-11-06T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43201?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43202",
-        "startTime": "2025-11-06T21:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43202?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43231",
         "startTime": "2025-11-07T11:15:00+10:30",
@@ -742,7 +561,7 @@
   {
     "id": "0000003805",
     "title": "The Incredibles (2004)",
-    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs.  Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
+    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs. Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
     "rating": "PG",
     "runtime": 121,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003805",
@@ -762,40 +581,12 @@
   {
     "id": "0000003676",
     "title": "The Travellers",
-    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother.  What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.",
+    "synopsis": "The Travellers is a poignant, funny and heartwarming family story from acclaimed filmmaker Bruce Beresford.\n \nStephen Seary, a charismatic and successful stage designer, returns to his small hometown in Australia to say goodbye to his dying mother. What was to be a quick trip descends into chaos, drama, and at times downright funny moments as Stephen navigates family responsibilities, a difficult relationship with his father, old friends & past lovers, all while trying to return to Europe for a major opera contract.\n",
     "rating": "M",
     "runtime": 97,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003676",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43125",
-        "startTime": "2025-11-05T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43125?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43126",
-        "startTime": "2025-11-05T16:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43126?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43211",
-        "startTime": "2025-11-06T11:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43211?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43212",
-        "startTime": "2025-11-06T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43212?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43213",
         "startTime": "2025-11-07T11:15:00+10:30",
@@ -889,8 +680,8 @@
   },
   {
     "id": "0000003893",
-    "title": "Windback Wednesday: E.T. Extra-Terrestrial",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nE.T. THE EXTRA-TERRESTRIAL (2004)\n\nJoin Elliot (Henry Thomas), Gertie (Drew Barrymore) and Michael (Robert MacNaughton) as they come together to help E.T. find his way back home. Winning four Academy Awards®, including one for the iconic score by John Williams, E.T. The Extra-Terrestrial is \"one of the great American films\" (Leonard Maltin) that forever belongs in the hearts and minds of audiences everywhere.",
+    "title": "Windback Wednesday: E.T. Extra-Terrestrial (1982)",
+    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nE.T. THE EXTRA-TERRESTRIAL (1982)\n\nJoin Elliot (Henry Thomas), Gertie (Drew Barrymore) and Michael (Robert MacNaughton) as they come together to help E.T. find his way back home. Winning four Academy Awards®, including one for the iconic score by John Williams, E.T. The Extra-Terrestrial is \"one of the great American films\" (Leonard Maltin) that forever belongs in the hearts and minds of audiences everywhere.",
     "rating": "PG",
     "runtime": 115,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003893",
@@ -909,7 +700,7 @@
   },
   {
     "id": "0000003899",
-    "title": "Windback Wednesday: Ferris Bueller's Day Off",
+    "title": "Windback Wednesday: Ferris Bueller's Day Off (1986",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFERRIS BUELLER'S DAY OFF (1986)\n\nA high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
     "rating": "PG",
     "runtime": 104,
@@ -929,7 +720,7 @@
   },
   {
     "id": "0000003901",
-    "title": "Windback Wednesday: Grease",
+    "title": "Windback Wednesday: Grease (1978)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nGREASE (1978)\n\nGood girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
     "rating": "PG",
     "runtime": 110,
@@ -949,7 +740,7 @@
   },
   {
     "id": "0000003903",
-    "title": "Windback Wednesday: Grease 2",
+    "title": "Windback Wednesday: Grease 2 (1982)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nGREASE 2 (1982)\n\nAn English student at a 1960s American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.",
     "rating": "PG",
     "runtime": 114,
@@ -984,26 +775,6 @@
           "Cinema 1"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
-    "id": "0000003765",
-    "title": "Windback Wednesday: Pulp Fiction",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nPULP FICTION (1994)\n\nThe lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "rating": "R18",
-    "runtime": 154,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003765",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42754",
-        "startTime": "2025-11-05T19:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42754?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
