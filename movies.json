@@ -1,23 +1,5 @@
 [
   {
-    "id": "0000003710",
-    "title": "A Paw Patrol Christmas",
-    "synopsis": "When Santa gets ill, Christmas is cancelled in Adventure Bay, Mayor Humdinger goes to the North Pole to take all the gifts for himself. Rubble and the rest of the PAW Patrol will have to make a sacrifice to stop Mayor Humdinger from ruining Christmas!",
-    "rating": "G",
-    "runtime": 55,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003710",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43344",
-        "startTime": "2025-11-16T11:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43344?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003507",
     "title": "Magic at the Movies: Before Sunrise (1995)",
     "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
@@ -43,26 +25,6 @@
     ]
   },
   {
-    "id": "0000003813",
-    "title": "Night of the Zoopocalypse",
-    "synopsis": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
-    "rating": "PG",
-    "runtime": 91,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003813",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "43340",
-        "startTime": "2025-11-16T11:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43340?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003923",
     "title": "Now You See Me: Now You Don't",
     "synopsis": "The Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), the film stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
@@ -71,41 +33,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003923",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43299",
-        "startTime": "2025-11-16T11:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43299?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43300",
-        "startTime": "2025-11-16T14:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43300?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43301",
-        "startTime": "2025-11-16T16:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43301?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43302",
-        "startTime": "2025-11-16T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43302?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43331",
-        "startTime": "2025-11-16T21:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43331?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43303",
         "startTime": "2025-11-18T11:30:00+10:30",
@@ -180,31 +107,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003908",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43283",
-        "startTime": "2025-11-16T16:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43283?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43349",
-        "startTime": "2025-11-16T19:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43349?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43284",
-        "startTime": "2025-11-16T21:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43284?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43319",
         "startTime": "2025-11-18T11:15:00+10:30",
@@ -290,26 +192,6 @@
     ]
   },
   {
-    "id": "0000003805",
-    "title": "The Incredibles (2004)",
-    "synopsis": "Join us for a special screening of the 2004 smash hit - THE INCREDIBLES!\n\nTHE INCREDIBLES follows the adventures of a family of former superheroes rediscovering the true source of their powers – in one another. Once one of the world’s top masked crime fighters, Bob Parr (AKA Mr. Incredible) fought evil and saved lives on a daily basis. But fifteen years later, he and his wife Helen (a famous former superhero in her own right) have been forced to take on civilian identities and retreat to the suburbs. Today they live as mere mortals and lead alltoo-ordinary lives with their children— who go out of their way to appear “normal.” As a clockpunching insurance man, the only thing Bob fights these days is boredom and a bulging waistline. Itching for action, the sidelined superhero gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. Now, with the fate of the world hanging in the balance, the family must come together and once again find the fantastic in their family life.",
-    "rating": "PG",
-    "runtime": 121,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003805",
-    "trailerUrl": null,
-    "sessions": [
-      {
-        "id": "42865",
-        "startTime": "2025-11-16T14:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42865?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      }
-    ]
-  },
-  {
     "id": "0000003697",
     "title": "The Running Man",
     "synopsis": "In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
@@ -318,36 +200,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003697",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43348",
-        "startTime": "2025-11-16T13:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43348?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43325",
-        "startTime": "2025-11-16T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43325?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43347",
-        "startTime": "2025-11-16T18:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43347?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43314",
-        "startTime": "2025-11-16T20:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43314?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43274",
         "startTime": "2025-11-18T11:00:00+10:30",
