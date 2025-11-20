@@ -1,6 +1,73 @@
 [
   {
-    "id": "0000003507",
+    "id": "ST00002206",
+    "title": "Jay Kelly",
+    "synopsis": "JAY KELLY, the new film from Academy Award nominee Noah Baumbach, follows famous movie actor Jay Kelly (George Clooney) and his devoted manager Ron (Adam Sandler) as they embark on a whirlwind and unexpectedly profound journey through Europe. Along the way, both men are forced to confront the choices they've made, the relationships with their loved ones, and the legacies they’ll leave behind.",
+    "rating": "M",
+    "runtime": 132,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003754",
+    "trailerUrl": null,
+    "sessions": [
+      {
+        "id": "43412",
+        "startTime": "2025-11-21T13:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43412?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43413",
+        "startTime": "2025-11-21T18:30:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43413?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43414",
+        "startTime": "2025-11-22T13:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43414?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43415",
+        "startTime": "2025-11-22T18:30:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43415?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43416",
+        "startTime": "2025-11-23T13:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43416?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43417",
+        "startTime": "2025-11-23T18:30:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43417?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43385",
+        "startTime": "2025-11-25T13:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43385?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43386",
+        "startTime": "2025-11-26T13:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43386?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      }
+    ]
+  },
+  {
+    "id": "ST00002066",
     "title": "Magic at the Movies: Before Sunrise (1995)",
     "synopsis": "'MAGIC AT THE MOVIES' presented by the Odeon Star Cinema. Join us for a curated selection of golden age classics & modern gems! The morning session will feature door prizes, trivia and complimentary morning tea.\n\nBEFORE SUNRISE (1995)\n\nA young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together",
     "rating": "M",
@@ -25,7 +92,7 @@
     ]
   },
   {
-    "id": "0000003923",
+    "id": "ST00002180",
     "title": "Now You See Me: Now You Don't",
     "synopsis": "The Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), the film stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
     "rating": "",
@@ -34,72 +101,107 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43303",
-        "startTime": "2025-11-18T11:30:00+10:30",
+        "id": "43374",
+        "startTime": "2025-11-21T11:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43303?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43374?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43304",
-        "startTime": "2025-11-18T14:00:00+10:30",
+        "id": "43375",
+        "startTime": "2025-11-21T16:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43304?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43375?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43305",
-        "startTime": "2025-11-18T16:15:00+10:30",
+        "id": "43403",
+        "startTime": "2025-11-21T18:45:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43305?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43403?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43306",
-        "startTime": "2025-11-18T18:30:00+10:30",
+        "id": "43376",
+        "startTime": "2025-11-22T11:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43306?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43376?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43332",
-        "startTime": "2025-11-18T21:15:00+10:30",
+        "id": "43377",
+        "startTime": "2025-11-22T16:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43332?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43377?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43307",
-        "startTime": "2025-11-19T11:30:00+10:30",
+        "id": "43404",
+        "startTime": "2025-11-22T18:45:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43307?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43404?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43308",
-        "startTime": "2025-11-19T14:00:00+10:30",
+        "id": "43378",
+        "startTime": "2025-11-23T11:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43308?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43378?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43309",
-        "startTime": "2025-11-19T16:15:00+10:30",
+        "id": "43379",
+        "startTime": "2025-11-23T16:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43309?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43379?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43310",
-        "startTime": "2025-11-19T18:30:00+10:30",
+        "id": "43405",
+        "startTime": "2025-11-23T18:45:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43310?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43405?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43380",
+        "startTime": "2025-11-25T11:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43380?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43381",
+        "startTime": "2025-11-25T16:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43381?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43406",
+        "startTime": "2025-11-25T18:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43406?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43382",
+        "startTime": "2025-11-26T11:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43382?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43383",
+        "startTime": "2025-11-26T16:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43383?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003908",
+    "id": "ST00002182",
     "title": "Predator: Badlands",
     "synopsis": "“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator (Schuster-Koloamatangi), outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
     "rating": "",
@@ -108,71 +210,44 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43319",
-        "startTime": "2025-11-18T11:15:00+10:30",
+        "id": "43397",
+        "startTime": "2025-11-21T16:30:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43319?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43397?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43320",
-        "startTime": "2025-11-18T13:30:00+10:30",
+        "id": "43398",
+        "startTime": "2025-11-22T16:30:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43320?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43398?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43285",
-        "startTime": "2025-11-18T16:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43285?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43321",
-        "startTime": "2025-11-18T19:00:00+10:30",
+        "id": "43399",
+        "startTime": "2025-11-23T16:30:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43321?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43399?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43286",
-        "startTime": "2025-11-18T21:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43286?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43353",
-        "startTime": "2025-11-19T11:15:00+10:30",
+        "id": "43400",
+        "startTime": "2025-11-25T16:30:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43353?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43400?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43354",
-        "startTime": "2025-11-19T13:30:00+10:30",
+        "id": "43401",
+        "startTime": "2025-11-26T16:30:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43354?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43352",
-        "startTime": "2025-11-19T16:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43352?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43401?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003913",
+    "id": "ST00002268",
     "title": "Radical Rewind Cinema Club: Uncle Buck (1989)",
     "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nUNCLE BUCK (1989)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nBachelor and all round slob, Buck, babysits his brother's rebellious teenage daughter and her cute younger brother and sister.",
     "rating": "PG",
@@ -192,7 +267,7 @@
     ]
   },
   {
-    "id": "0000003697",
+    "id": "ST00002178",
     "title": "The Running Man",
     "synopsis": "In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
     "rating": "",
@@ -201,102 +276,292 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43274",
-        "startTime": "2025-11-18T11:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43274?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43275",
-        "startTime": "2025-11-18T13:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43275?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43326",
-        "startTime": "2025-11-18T16:00:00+10:30",
+        "id": "43418",
+        "startTime": "2025-11-21T11:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43326?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43418?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43276",
-        "startTime": "2025-11-18T18:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43276?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43315",
-        "startTime": "2025-11-18T20:45:00+10:30",
+        "id": "43419",
+        "startTime": "2025-11-21T13:45:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43315?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43419?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43350",
-        "startTime": "2025-11-19T11:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43350?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43351",
-        "startTime": "2025-11-19T13:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43351?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43327",
-        "startTime": "2025-11-19T16:00:00+10:30",
+        "id": "43389",
+        "startTime": "2025-11-21T21:15:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43327?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43389?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
-        "id": "43355",
-        "startTime": "2025-11-19T18:45:00+10:30",
+        "id": "43420",
+        "startTime": "2025-11-22T11:00:00+10:30",
         "screenName": "",
         "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43355?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43420?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43421",
+        "startTime": "2025-11-22T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43421?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43390",
+        "startTime": "2025-11-22T21:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43390?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43395",
+        "startTime": "2025-11-23T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43395?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43391",
+        "startTime": "2025-11-23T21:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43391?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43428",
+        "startTime": "2025-11-25T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43428?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43392",
+        "startTime": "2025-11-25T21:15:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43392?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43432",
+        "startTime": "2025-11-26T11:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43432?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43433",
+        "startTime": "2025-11-26T13:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43433?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003762",
-    "title": "Windback Wednesday: Donnie Darko",
-    "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nDONNIE DARKO (2001)\n\nA troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.",
-    "rating": "M",
-    "runtime": 113,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003762",
+    "id": "ST00002204",
+    "title": "Wicked: For Good",
+    "synopsis": "Last year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum). \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard. \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+    "rating": "",
+    "runtime": 138,
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003751",
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "42756",
-        "startTime": "2025-11-19T19:00:00+10:30",
+        "id": "43360",
+        "startTime": "2025-11-21T10:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
           "Cinema 1"
         ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42756?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43360?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43361",
+        "startTime": "2025-11-21T13:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43361?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43362",
+        "startTime": "2025-11-21T16:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43362?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43363",
+        "startTime": "2025-11-21T19:00:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43363?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43408",
+        "startTime": "2025-11-21T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43408?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43364",
+        "startTime": "2025-11-22T10:45:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43364?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43365",
+        "startTime": "2025-11-22T13:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43365?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43366",
+        "startTime": "2025-11-22T16:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43366?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43367",
+        "startTime": "2025-11-22T19:00:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43367?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43409",
+        "startTime": "2025-11-22T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43409?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43368",
+        "startTime": "2025-11-23T10:45:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43368?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43369",
+        "startTime": "2025-11-23T13:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43369?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43370",
+        "startTime": "2025-11-23T16:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43370?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43371",
+        "startTime": "2025-11-23T19:00:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43371?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43410",
+        "startTime": "2025-11-23T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43410?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43423",
+        "startTime": "2025-11-25T10:45:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43423?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43424",
+        "startTime": "2025-11-25T13:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43424?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43425",
+        "startTime": "2025-11-25T16:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43425?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43411",
+        "startTime": "2025-11-25T21:00:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43411?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43430",
+        "startTime": "2025-11-26T13:30:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43430?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43431",
+        "startTime": "2025-11-26T16:15:00+10:30",
+        "screenName": "Cinema 1",
+        "attributes": [
+          "Cinema 1"
+        ],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43431?siteToken=hrqx63mdmcnrd0x03w95trdshr"
+      },
+      {
+        "id": "43434",
+        "startTime": "2025-11-26T18:45:00+10:30",
+        "screenName": "",
+        "attributes": [],
+        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43434?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
   },
   {
-    "id": "0000003893",
+    "id": "ST00001754",
     "title": "Windback Wednesday: E.T. Extra-Terrestrial (1982)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nE.T. THE EXTRA-TERRESTRIAL (1982)\n\nJoin Elliot (Henry Thomas), Gertie (Drew Barrymore) and Michael (Robert MacNaughton) as they come together to help E.T. find his way back home. Winning four Academy Awards®, including one for the iconic score by John Williams, E.T. The Extra-Terrestrial is \"one of the great American films\" (Leonard Maltin) that forever belongs in the hearts and minds of audiences everywhere.",
     "rating": "PG",
@@ -316,7 +581,7 @@
     ]
   },
   {
-    "id": "0000003899",
+    "id": "ST00001690",
     "title": "Windback Wednesday: Ferris Bueller's Day Off (1986",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nFERRIS BUELLER'S DAY OFF (1986)\n\nA high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
     "rating": "PG",
@@ -336,7 +601,7 @@
     ]
   },
   {
-    "id": "0000003901",
+    "id": "ST00001830",
     "title": "Windback Wednesday: Grease (1978)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nGREASE (1978)\n\nGood girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
     "rating": "PG",
@@ -356,7 +621,7 @@
     ]
   },
   {
-    "id": "0000003903",
+    "id": "ST00002264",
     "title": "Windback Wednesday: Grease 2 (1982)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nGREASE 2 (1982)\n\nAn English student at a 1960s American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.",
     "rating": "PG",
@@ -376,7 +641,7 @@
     ]
   },
   {
-    "id": "0000003888",
+    "id": "ST00002262",
     "title": "Windback Wednesday: PotC - Dead Man's Chest (2006)",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nPIRATES OF THE CARIBBEAN: DEAD MAN'S CHEST (2004)\n\nJack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
     "rating": "M",
@@ -396,7 +661,7 @@
     ]
   },
   {
-    "id": "0000003788",
+    "id": "ST00002212",
     "title": "Windback Wednesday: Spider-Man 2",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nSPIDER-MAN 2 (2004)\n\nPeter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
     "rating": "M",
@@ -416,7 +681,7 @@
     ]
   },
   {
-    "id": "0000003772",
+    "id": "ST00001832",
     "title": "Windback Wednesday: The Blues Brothers",
     "synopsis": "‘WINDBACK WEDNESDAY’ presented by the Odeon Star Cinema. Join us every Wednesday night as we bring cult classics and fan favourites back to the big screen!\n\nTHE BLUES BROTHERS (1980)\n\nJake Blues, just out from prison, puts together his old band to save the Catholic home where he and brother Elwood were raised.",
     "rating": "M",
