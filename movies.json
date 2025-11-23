@@ -9,34 +9,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43414",
-        "startTime": "2025-11-22T13:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43414?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43415",
-        "startTime": "2025-11-22T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43415?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43416",
-        "startTime": "2025-11-23T13:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43416?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43417",
-        "startTime": "2025-11-23T18:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43417?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43385",
         "startTime": "2025-11-25T13:15:00+10:30",
         "screenName": "",
@@ -87,48 +59,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43376",
-        "startTime": "2025-11-22T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43376?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43377",
-        "startTime": "2025-11-22T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43377?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43404",
-        "startTime": "2025-11-22T18:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43404?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43378",
-        "startTime": "2025-11-23T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43378?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43379",
-        "startTime": "2025-11-23T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43379?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43405",
-        "startTime": "2025-11-23T18:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43405?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43380",
         "startTime": "2025-11-25T11:00:00+10:30",
         "screenName": "",
@@ -175,20 +105,6 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43398",
-        "startTime": "2025-11-22T16:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43398?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43399",
-        "startTime": "2025-11-23T16:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43399?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43400",
         "startTime": "2025-11-25T16:30:00+10:30",
         "screenName": "",
@@ -218,7 +134,7 @@
         "startTime": "2025-12-12T20:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43270?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -233,41 +149,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003697",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43420",
-        "startTime": "2025-11-22T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43420?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43421",
-        "startTime": "2025-11-22T13:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43421?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43390",
-        "startTime": "2025-11-22T21:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43390?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43395",
-        "startTime": "2025-11-23T13:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43395?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43391",
-        "startTime": "2025-11-23T21:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43391?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43428",
         "startTime": "2025-11-25T13:45:00+10:30",
@@ -308,97 +189,11 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43364",
-        "startTime": "2025-11-22T10:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43364?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43365",
-        "startTime": "2025-11-22T13:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43365?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43366",
-        "startTime": "2025-11-22T16:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43366?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43367",
-        "startTime": "2025-11-22T19:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43367?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43409",
-        "startTime": "2025-11-22T21:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43409?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43368",
-        "startTime": "2025-11-23T10:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43368?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43369",
-        "startTime": "2025-11-23T13:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43369?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43370",
-        "startTime": "2025-11-23T16:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43370?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43371",
-        "startTime": "2025-11-23T19:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43371?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43410",
-        "startTime": "2025-11-23T21:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43410?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43423",
         "startTime": "2025-11-25T10:45:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43423?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -407,7 +202,7 @@
         "startTime": "2025-11-25T13:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43424?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -416,7 +211,7 @@
         "startTime": "2025-11-25T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43425?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -432,7 +227,7 @@
         "startTime": "2025-11-26T13:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43430?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -441,7 +236,7 @@
         "startTime": "2025-11-26T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43431?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -468,7 +263,7 @@
         "startTime": "2026-01-07T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43185?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -488,7 +283,7 @@
         "startTime": "2026-01-14T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43186?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -508,7 +303,7 @@
         "startTime": "2026-01-21T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43187?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -528,7 +323,7 @@
         "startTime": "2026-01-28T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43188?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -548,7 +343,7 @@
         "startTime": "2025-12-10T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -568,7 +363,7 @@
         "startTime": "2025-12-03T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42758?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -588,7 +383,7 @@
         "startTime": "2025-11-26T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42757?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
