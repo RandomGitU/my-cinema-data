@@ -6,7 +6,7 @@
     "rating": "PG",
     "runtime": 96,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003977",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43509",
@@ -26,22 +26,8 @@
     "rating": "",
     "runtime": 110,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003790",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43485",
-        "startTime": "2025-11-29T11:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43485?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43486",
-        "startTime": "2025-11-29T18:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43486?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43496",
         "startTime": "2025-11-30T18:30:00+10:30",
@@ -86,22 +72,8 @@
     "rating": "MA15+",
     "runtime": 98,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003874",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43487",
-        "startTime": "2025-11-29T14:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43487?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43488",
-        "startTime": "2025-11-29T21:15:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43488?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43499",
         "startTime": "2025-11-30T21:15:00+10:30",
@@ -142,11 +114,11 @@
   {
     "id": "ST00001542",
     "title": "Die Hard (1988)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nNew York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nDIE HARD (1988)\n\nNew York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
     "rating": "M",
     "runtime": 132,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004000",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43517",
@@ -162,11 +134,11 @@
   {
     "id": "ST00001288",
     "title": "Elf (2003)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nBuddy (Will Ferrell) was accidentally transported to the North Pole as a toddler and raised to adulthood among Santa's elves. Unable to shake the feeling that he doesn't fit in, the adult Buddy travels to New York, in full elf uniform, in search of his real father. As it happens, this is Walter Hobbs (James Caan), a cynical businessman. After a DNA test proves this, Walter reluctantly attempts to start a relationship with the childlike Buddy with increasingly chaotic results.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nELF (2003)\n\nBuddy (Will Ferrell) was accidentally transported to the North Pole as a toddler and raised to adulthood among Santa's elves. Unable to shake the feeling that he doesn't fit in, the adult Buddy travels to New York, in full elf uniform, in search of his real father. As it happens, this is Walter Hobbs (James Caan), a cynical businessman. After a DNA test proves this, Walter reluctantly attempts to start a relationship with the childlike Buddy with increasingly chaotic results.",
     "rating": "G",
     "runtime": 96,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003998",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43516",
@@ -182,11 +154,11 @@
   {
     "id": "ST00001842",
     "title": "Gremlins (1984)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nA gadget salesman is looking for a special gift for his son and finds one at a store in Chinatown. The shopkeeper is reluctant to sell him the \"mogwai\" but sells it to him with the warning to never expose him to bright light, water, or to feed him after midnight. All of this happens and the result is a gang of gremlins that decide to tear up the town on Christmas Eve.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nGREMLINS (1984)\n\nA gadget salesman is looking for a special gift for his son and finds one at a store in Chinatown. The shopkeeper is reluctant to sell him the \"mogwai\" but sells it to him with the warning to never expose him to bright light, water, or to feed him after midnight. All of this happens and the result is a gang of gremlins that decide to tear up the town on Christmas Eve.",
     "rating": "PG",
     "runtime": 106,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004004",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43519",
@@ -202,11 +174,11 @@
   {
     "id": "ST00001520",
     "title": "Home Alone (1990)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nWhen bratty 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nHOME ALONE (1990)\n\nWhen bratty 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home.",
     "rating": "PG",
     "runtime": 99,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003988",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43512",
@@ -222,11 +194,11 @@
   {
     "id": "ST00002282",
     "title": "How The Grinch Stole Christmas (2000)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nIn this live-action adaptation of the beloved children's tale by Dr. Seuss, the reclusive green Grinch (Jim Carrey) decides to ruin Christmas for the cheery citizens of Whoville. Reluctantly joined by his hapless dog, Max, the Grinch comes down from his mountaintop home and sneaks into town to swipe everything holiday-related from the Whos. However, the bitter grump finds a hitch in his plans when he encounters the endearing Cindy Lou Who (Taylor Momsen).",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nHOW THE GRINCH STOLE CHRISTMAS (2000)\n\nIn this live-action adaptation of the beloved children's tale by Dr. Seuss, the reclusive green Grinch (Jim Carrey) decides to ruin Christmas for the cheery citizens of Whoville. Reluctantly joined by his hapless dog, Max, the Grinch comes down from his mountaintop home and sneaks into town to swipe everything holiday-related from the Whos. However, the bitter grump finds a hitch in his plans when he encounters the endearing Cindy Lou Who (Taylor Momsen).",
     "rating": "PG",
     "runtime": 105,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003981",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43511",
@@ -246,15 +218,8 @@
     "rating": "M",
     "runtime": 132,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003754",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43489",
-        "startTime": "2025-11-29T16:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43489?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43455",
         "startTime": "2025-12-02T15:45:00+10:30",
@@ -274,11 +239,11 @@
   {
     "id": "ST00002280",
     "title": "Meet Me in St. Louis (1944)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\n\"Meet Me in St. Louis\" is a classic MGM romantic musical comedy that focuses on four sisters (one of whom is the nonpareil Judy Garland) on the cusp of the 1904 St. Louis World's Fair. The film spotlights the sisters' education in the ways of the world, which includes, but isn't limited to, learning about life and love, courtesy of the prototypical boy next door. In the end, love -- accompanied by song, dance and period costumes, all in glorious Technicolor -- conquers all.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nMEET ME IN ST. LOUIS (1944)\n\n\"Meet Me in St. Louis\" is a classic MGM romantic musical comedy that focuses on four sisters (one of whom is the nonpareil Judy Garland) on the cusp of the 1904 St. Louis World's Fair. The film spotlights the sisters' education in the ways of the world, which includes, but isn't limited to, learning about life and love, courtesy of the prototypical boy next door. In the end, love -- accompanied by song, dance and period costumes, all in glorious Technicolor -- conquers all.",
     "rating": "G",
     "runtime": 113,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003996",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43515",
@@ -292,11 +257,11 @@
   {
     "id": "ST00001526",
     "title": "National Lampoon's Christmas Vacation (1989)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nAs the holidays approach, Clark Griswold (Chevy Chase) wants to have a perfect family Christmas, so he pesters his wife, Ellen (Beverly D'Angelo), and children, as he tries to make sure everything is in line, including the tree and house decorations. However, things go awry quickly. His hick cousin, Eddie (Randy Quaid), and his family show up unplanned and start living in their camper on the Griswold property. Even worse, Clark's employers renege on the holiday bonus he needs.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nNATIONAL LAMPOONS CHRISTMAS VACATION (1989)\n\nAs the holidays approach, Clark Griswold (Chevy Chase) wants to have a perfect family Christmas, so he pesters his wife, Ellen (Beverly D'Angelo), and children, as he tries to make sure everything is in line, including the tree and house decorations. However, things go awry quickly. His hick cousin, Eddie (Randy Quaid), and his family show up unplanned and start living in their camper on the Griswold property. Even worse, Clark's employers renege on the holiday bonus he needs.",
     "rating": "M",
     "runtime": 95,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003994",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43514",
@@ -312,11 +277,11 @@
   {
     "id": "ST00002268",
     "title": "Radical Rewind Cinema Club: Uncle Buck (1989)",
-    "synopsis": "Cinemas most celebrated & fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nUNCLE BUCK (1989)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nBachelor and all round slob, Buck, babysits his brother's rebellious teenage daughter and her cute younger brother and sister.",
+    "synopsis": "Cinemas most celebrated &amp; fun films return to the big screen at the Odeon Star Cinema. Presented by the Radical Rewind Cinema Club!\n\nUNCLE BUCK (1989)\n7:00pm - Red Carpet Market\n8:00pm - Movie\n\nBachelor and all round slob, Buck, babysits his brother's rebellious teenage daughter and her cute younger brother and sister.",
     "rating": "PG",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003913",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43270",
@@ -332,11 +297,11 @@
   {
     "id": "ST00001840",
     "title": "The Muppet Christmas Carol (1992)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nThe Muppets perform the classic Dickens holiday tale, with Kermit the Frog playing Bob Cratchit, the put-upon clerk of stingy Ebenezer Scrooge (Michael Caine). Other Muppets -- Miss Piggy, Gonzo, Fozzie Bear and Sam the Eagle -- weave in and out of the story, while Scrooge receives visits from spirits of three Christmases -- past, present and future. They show him the error of his self-serving ways, but the miserable old man seems to be past any hope of redemption and happiness.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE MUPPET CHRISTMAS CAROL (1992)\n\nThe Muppets perform the classic Dickens holiday tale, with Kermit the Frog playing Bob Cratchit, the put-upon clerk of stingy Ebenezer Scrooge (Michael Caine). Other Muppets -- Miss Piggy, Gonzo, Fozzie Bear and Sam the Eagle -- weave in and out of the story, while Scrooge receives visits from spirits of three Christmases -- past, present and future. They show him the error of his self-serving ways, but the miserable old man seems to be past any hope of redemption and happiness.",
     "rating": "G",
     "runtime": 85,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003992",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43513",
@@ -352,11 +317,11 @@
   {
     "id": "ST00001524",
     "title": "The Nightmare Before Christmas (1993)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nThe film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE NIGHTMARE BEFORE CHRISTMAS (1993)\n\nThe film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
     "rating": "G",
     "runtime": 76,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004002",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43518",
@@ -372,11 +337,11 @@
   {
     "id": "ST00001838",
     "title": "The Polar Express (2004)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nWhen a doubting young boy takes a train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE POLAR EXPRESS (2004)\n\nWhen a doubting young boy takes a train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
     "rating": "G",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003979",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43510",
@@ -396,15 +361,8 @@
     "rating": "M",
     "runtime": 144,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003749",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43492",
-        "startTime": "2025-11-29T13:45:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43492?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43497",
         "startTime": "2025-11-30T21:00:00+10:30",
@@ -438,44 +396,12 @@
   {
     "id": "ST00002204",
     "title": "Wicked: For Good",
-    "synopsis": "Last year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum). \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard. \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+    "synopsis": "Last year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum). \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard. \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman &amp; Dana Fox. The film score is by John Powell &amp; Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
     "rating": "",
     "runtime": 138,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003751",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43490",
-        "startTime": "2025-11-29T11:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43490?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43483",
-        "startTime": "2025-11-29T15:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43483?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43491",
-        "startTime": "2025-11-29T19:00:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43491?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43484",
-        "startTime": "2025-11-29T20:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43484?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43498",
         "startTime": "2025-11-30T18:30:00+10:30",
@@ -553,7 +479,7 @@
     "rating": "PG",
     "runtime": 115,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003893",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43185",
@@ -573,7 +499,7 @@
     "rating": "PG",
     "runtime": 104,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003899",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43186",
@@ -593,7 +519,7 @@
     "rating": "PG",
     "runtime": 110,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003901",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43187",
@@ -613,7 +539,7 @@
     "rating": "PG",
     "runtime": 114,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003903",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43188",
@@ -633,7 +559,7 @@
     "rating": "M",
     "runtime": 150,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003888",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "43184",
@@ -653,7 +579,7 @@
     "rating": "M",
     "runtime": 128,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003788",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
       {
         "id": "42758",
@@ -673,42 +599,8 @@
     "rating": "PG",
     "runtime": 108,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003921",
-    "trailerUrl": null,
+    "trailerUrl": "",
     "sessions": [
-      {
-        "id": "43480",
-        "startTime": "2025-11-29T11:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43480?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43481",
-        "startTime": "2025-11-29T13:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43481?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43493",
-        "startTime": "2025-11-29T16:30:00+10:30",
-        "screenName": "",
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43493?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43482",
-        "startTime": "2025-11-29T18:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43482?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43494",
         "startTime": "2025-11-30T18:30:00+10:30",
