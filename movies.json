@@ -6,14 +6,14 @@
     "rating": "PG",
     "runtime": 96,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003977",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43509",
         "startTime": "2025-12-15T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43509?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -26,33 +26,33 @@
     "rating": "",
     "runtime": 110,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003790",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43441",
         "startTime": "2025-12-02T11:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43441?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43442",
         "startTime": "2025-12-02T18:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43442?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43443",
         "startTime": "2025-12-03T11:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43443?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43444",
         "startTime": "2025-12-03T18:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43444?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -65,33 +65,33 @@
     "rating": "MA15+",
     "runtime": 98,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003874",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43449",
         "startTime": "2025-12-02T13:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43449?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43450",
         "startTime": "2025-12-02T21:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43450?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43451",
         "startTime": "2025-12-03T13:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43451?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43452",
         "startTime": "2025-12-03T21:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43452?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -104,14 +104,14 @@
     "rating": "M",
     "runtime": 132,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004000",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43517",
         "startTime": "2025-12-20T20:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43517?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -124,14 +124,14 @@
     "rating": "G",
     "runtime": 96,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003998",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43516",
         "startTime": "2025-12-20T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43516?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -144,14 +144,14 @@
     "rating": "PG",
     "runtime": 106,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004004",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43519",
         "startTime": "2025-12-21T20:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43519?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -164,14 +164,14 @@
     "rating": "PG",
     "runtime": 99,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003988",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43512",
         "startTime": "2025-12-18T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43512?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -184,14 +184,14 @@
     "rating": "PG",
     "runtime": 105,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003981",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43511",
         "startTime": "2025-12-17T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43511?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -204,19 +204,19 @@
     "rating": "M",
     "runtime": 132,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003754",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43455",
         "startTime": "2025-12-02T15:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43455?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43456",
         "startTime": "2025-12-03T15:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43456?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -225,16 +225,16 @@
   {
     "id": "ST00002280",
     "title": "Meet Me in St. Louis (1944)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nMEET ME IN ST. LOUIS (1944)\n\n\"Meet Me in St. Louis\" is a classic MGM romantic musical comedy that focuses on four sisters (one of whom is the nonpareil Judy Garland) on the cusp of the 1904 St. Louis World's Fair. The film spotlights the sisters' education in the ways of the world, which includes, but isn't limited to, learning about life and love, courtesy of the prototypical boy next door. In the end, love -- accompanied by song, dance and period costumes, all in glorious Technicolor -- conquers all.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\n\"Meet Me in St. Louis\" is a classic MGM romantic musical comedy that focuses on four sisters (one of whom is the nonpareil Judy Garland) on the cusp of the 1904 St. Louis World's Fair. The film spotlights the sisters' education in the ways of the world, which includes, but isn't limited to, learning about life and love, courtesy of the prototypical boy next door. In the end, love -- accompanied by song, dance and period costumes, all in glorious Technicolor -- conquers all.",
     "rating": "G",
     "runtime": 113,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003996",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43515",
         "startTime": "2025-12-20T14:00:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43515?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -243,18 +243,18 @@
   {
     "id": "ST00001526",
     "title": "National Lampoon's Christmas Vacation (1989)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nNATIONAL LAMPOONS CHRISTMAS VACATION (1989)\n\nAs the holidays approach, Clark Griswold (Chevy Chase) wants to have a perfect family Christmas, so he pesters his wife, Ellen (Beverly D'Angelo), and children, as he tries to make sure everything is in line, including the tree and house decorations. However, things go awry quickly. His hick cousin, Eddie (Randy Quaid), and his family show up unplanned and start living in their camper on the Griswold property. Even worse, Clark's employers renege on the holiday bonus he needs.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nAs the holidays approach, Clark Griswold (Chevy Chase) wants to have a perfect family Christmas, so he pesters his wife, Ellen (Beverly D'Angelo), and children, as he tries to make sure everything is in line, including the tree and house decorations. However, things go awry quickly. His hick cousin, Eddie (Randy Quaid), and his family show up unplanned and start living in their camper on the Griswold property. Even worse, Clark's employers renege on the holiday bonus he needs.",
     "rating": "M",
     "runtime": 95,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003994",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43514",
         "startTime": "2025-12-19T20:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43514?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -267,14 +267,14 @@
     "rating": "PG",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003913",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43270",
         "startTime": "2025-12-12T20:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43270?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -283,18 +283,18 @@
   {
     "id": "ST00001840",
     "title": "The Muppet Christmas Carol (1992)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE MUPPET CHRISTMAS CAROL (1992)\n\nThe Muppets perform the classic Dickens holiday tale, with Kermit the Frog playing Bob Cratchit, the put-upon clerk of stingy Ebenezer Scrooge (Michael Caine). Other Muppets -- Miss Piggy, Gonzo, Fozzie Bear and Sam the Eagle -- weave in and out of the story, while Scrooge receives visits from spirits of three Christmases -- past, present and future. They show him the error of his self-serving ways, but the miserable old man seems to be past any hope of redemption and happiness.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nThe Muppets perform the classic Dickens holiday tale, with Kermit the Frog playing Bob Cratchit, the put-upon clerk of stingy Ebenezer Scrooge (Michael Caine). Other Muppets -- Miss Piggy, Gonzo, Fozzie Bear and Sam the Eagle -- weave in and out of the story, while Scrooge receives visits from spirits of three Christmases -- past, present and future. They show him the error of his self-serving ways, but the miserable old man seems to be past any hope of redemption and happiness.",
     "rating": "G",
     "runtime": 85,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003992",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43513",
         "startTime": "2025-12-19T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43513?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -303,18 +303,18 @@
   {
     "id": "ST00001524",
     "title": "The Nightmare Before Christmas (1993)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE NIGHTMARE BEFORE CHRISTMAS (1993)\n\nThe film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nThe film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack accidentally stumbles on Christmastown, all bright colors and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.",
     "rating": "G",
     "runtime": 76,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004002",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43518",
         "startTime": "2025-12-21T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43518?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -323,18 +323,18 @@
   {
     "id": "ST00001838",
     "title": "The Polar Express (2004)",
-    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nTHE POLAR EXPRESS (2004)\n\nWhen a doubting young boy takes a train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+    "synopsis": "Celebrate Christmas at the Odeon with our $6.00 Christmas Classics!\n\nWhen a doubting young boy takes a train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
     "rating": "G",
     "runtime": 100,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003979",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43510",
         "startTime": "2025-12-16T18:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43510?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -347,26 +347,26 @@
     "rating": "M",
     "runtime": 144,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003749",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43470",
         "startTime": "2025-12-02T13:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43470?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43471",
         "startTime": "2025-12-02T20:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43471?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43507",
         "startTime": "2025-12-03T13:15:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43507?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -379,14 +379,14 @@
     "rating": "",
     "runtime": 138,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003751",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43501",
         "startTime": "2025-12-02T13:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43501?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -395,7 +395,7 @@
         "startTime": "2025-12-02T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43502?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -404,7 +404,7 @@
         "startTime": "2025-12-02T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43503?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -413,7 +413,7 @@
         "startTime": "2025-12-03T13:30:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43505?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
@@ -422,14 +422,14 @@
         "startTime": "2025-12-03T16:15:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43506?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43508",
         "startTime": "2025-12-03T20:45:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43508?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -442,14 +442,14 @@
     "rating": "PG",
     "runtime": 115,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003893",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43185",
         "startTime": "2026-01-07T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43185?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -462,14 +462,14 @@
     "rating": "PG",
     "runtime": 104,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003899",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43186",
         "startTime": "2026-01-14T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43186?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -482,14 +482,14 @@
     "rating": "PG",
     "runtime": 110,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003901",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43187",
         "startTime": "2026-01-21T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43187?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -502,14 +502,14 @@
     "rating": "PG",
     "runtime": 114,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003903",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43188",
         "startTime": "2026-01-28T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43188?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -522,14 +522,14 @@
     "rating": "M",
     "runtime": 150,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003888",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43184",
         "startTime": "2025-12-10T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -542,14 +542,14 @@
     "rating": "M",
     "runtime": 128,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003788",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "42758",
         "startTime": "2025-12-03T19:00:00+10:30",
         "screenName": "Cinema 1",
         "attributes": [
-          "Cinema 1"
+          "This cinema is NOT wheelchair accessible"
         ],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/42758?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
@@ -562,40 +562,40 @@
     "rating": "PG",
     "runtime": 108,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003921",
-    "trailerUrl": "",
+    "trailerUrl": null,
     "sessions": [
       {
         "id": "43461",
         "startTime": "2025-12-02T16:00:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43461?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43462",
         "startTime": "2025-12-02T18:30:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43462?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43463",
         "startTime": "2025-12-03T11:00:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43463?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43464",
         "startTime": "2025-12-03T16:00:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43464?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43465",
         "startTime": "2025-12-03T18:30:00+10:30",
-        "screenName": "",
+        "screenName": null,
         "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43465?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
