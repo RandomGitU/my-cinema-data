@@ -12,9 +12,7 @@
         "id": "43509",
         "startTime": "2025-12-15T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43509?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -28,20 +26,6 @@
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003874",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43548",
-        "startTime": "2025-12-04T11:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43548?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43549",
-        "startTime": "2025-12-04T21:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43549?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43550",
         "startTime": "2025-12-05T11:00:00+10:30",
@@ -92,9 +76,7 @@
         "id": "43517",
         "startTime": "2025-12-20T20:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43517?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -112,9 +94,7 @@
         "id": "43516",
         "startTime": "2025-12-20T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43516?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -123,72 +103,30 @@
     "id": "ST00002220",
     "title": "Five Nights at Freddy's 2",
     "synopsis": "Anyone can survive five nights. This time, there will be no second chances.\n\n\nBlumhouse’s box-office horror phenomenon Five Nights at Freddy’s, the highest-grossing horror film of 2023, begins a blood-chilling new chapter of animatronic terror.\n\nBased on Scott Cawthon’s blockbuster game series, Five Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi (The Wind, Blood Moon).\n\nThe first film, which opened to a record-shattering $80 million and went on to earn almost $300 million worldwide, followed Mike, a troubled young man who reluctantly takes a job as a night security guard at an abandoned theme restaurant, Freddy Fazbear’s pizzeria, hoping it will help him retain custody of his young sister. That fateful decision instead drags him into the black heart of a supernatural nightmare.\n\nFive Nights at Freddy’s 2 is again produced by Jason Blum (M3GAN, Black Phone, Halloween franchise) and Scott Cawthon.",
-    "rating": "",
+    "rating": "M",
     "runtime": 100,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003809",
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004014",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43522",
-        "startTime": "2025-12-04T14:30:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43522?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43523",
-        "startTime": "2025-12-04T16:45:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43523?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43524",
-        "startTime": "2025-12-04T19:00:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43524?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43525",
-        "startTime": "2025-12-04T21:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43525?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43569",
         "startTime": "2025-12-05T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43569?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43570",
         "startTime": "2025-12-05T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43570?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43571",
         "startTime": "2025-12-05T21:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43571?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -202,27 +140,21 @@
         "id": "43572",
         "startTime": "2025-12-06T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43572?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43573",
         "startTime": "2025-12-06T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43573?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43574",
         "startTime": "2025-12-06T21:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43574?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -236,72 +168,56 @@
         "id": "43590",
         "startTime": "2025-12-07T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43590?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43591",
         "startTime": "2025-12-07T21:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43591?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43526",
         "startTime": "2025-12-09T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43526?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43527",
         "startTime": "2025-12-09T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43527?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43528",
         "startTime": "2025-12-09T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43528?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43529",
         "startTime": "2025-12-09T21:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43529?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43597",
         "startTime": "2025-12-10T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43597?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43598",
         "startTime": "2025-12-10T16:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43598?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -326,9 +242,7 @@
         "id": "43519",
         "startTime": "2025-12-21T20:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43519?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -346,9 +260,7 @@
         "id": "43512",
         "startTime": "2025-12-18T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43512?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -366,9 +278,7 @@
         "id": "43511",
         "startTime": "2025-12-17T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43511?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -404,9 +314,7 @@
         "id": "43514",
         "startTime": "2025-12-19T20:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43514?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -415,25 +323,11 @@
     "id": "ST00002210",
     "title": "Nuremberg",
     "synopsis": "The Allies, led by the unyielding chief prosecutor, Robert H. Jackson (Michael Shannon), have the task of ensuring the Nazi regime answers for the unveiled horrors of the Holocaust while a US Army psychiatrist (Rami Malek) is locked in a dramatic psychological duel with former Reichsmarschall Herman Göring (Russell Crowe).",
-    "rating": "",
+    "rating": "M",
     "runtime": 148,
-    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003778",
+    "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000004016",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43552",
-        "startTime": "2025-12-04T13:15:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43552?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43553",
-        "startTime": "2025-12-04T18:30:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43553?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43554",
         "startTime": "2025-12-05T13:15:00+10:30",
@@ -519,9 +413,7 @@
         "id": "43270",
         "startTime": "2025-12-12T20:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43270?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -539,9 +431,7 @@
         "id": "43513",
         "startTime": "2025-12-19T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43513?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -559,9 +449,7 @@
         "id": "43518",
         "startTime": "2025-12-21T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43518?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -579,9 +467,7 @@
         "id": "43510",
         "startTime": "2025-12-16T18:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43510?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -596,19 +482,10 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43530",
-        "startTime": "2025-12-04T11:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43530?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43567",
         "startTime": "2025-12-05T11:45:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43567?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -637,26 +514,12 @@
   {
     "id": "ST00002204",
     "title": "Wicked: For Good",
-    "synopsis": "Last year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum). \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard. \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
-    "rating": "",
+    "synopsis": "Last year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum). \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard. \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+    "rating": "PG",
     "runtime": 138,
     "posterUrl": "https://ticketing.oz.veezi.com/Media/Poster?siteToken=hrqx63mdmcnrd0x03w95trdshr&code=0000003751",
     "trailerUrl": null,
     "sessions": [
-      {
-        "id": "43538",
-        "startTime": "2025-12-04T16:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43538?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43539",
-        "startTime": "2025-12-04T21:00:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43539?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
       {
         "id": "43540",
         "startTime": "2025-12-05T16:00:00+10:30",
@@ -756,9 +619,7 @@
         "id": "43185",
         "startTime": "2026-01-07T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43185?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -776,9 +637,7 @@
         "id": "43186",
         "startTime": "2026-01-14T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43186?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -796,9 +655,7 @@
         "id": "43187",
         "startTime": "2026-01-21T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43187?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -816,9 +673,7 @@
         "id": "43188",
         "startTime": "2026-01-28T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43188?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -836,9 +691,7 @@
         "id": "43184",
         "startTime": "2025-12-10T19:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43184?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       }
     ]
@@ -853,42 +706,10 @@
     "trailerUrl": null,
     "sessions": [
       {
-        "id": "43520",
-        "startTime": "2025-12-04T12:15:00+10:30",
-        "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43520?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43534",
-        "startTime": "2025-12-04T13:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43534?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43562",
-        "startTime": "2025-12-04T16:15:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43562?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
-        "id": "43535",
-        "startTime": "2025-12-04T18:45:00+10:30",
-        "screenName": null,
-        "attributes": [],
-        "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43535?siteToken=hrqx63mdmcnrd0x03w95trdshr"
-      },
-      {
         "id": "43568",
         "startTime": "2025-12-05T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43568?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -909,27 +730,21 @@
         "id": "43580",
         "startTime": "2025-12-06T10:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43580?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43581",
         "startTime": "2025-12-06T12:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43581?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43582",
         "startTime": "2025-12-06T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43582?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -950,27 +765,21 @@
         "id": "43583",
         "startTime": "2025-12-07T10:00:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43583?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43584",
         "startTime": "2025-12-07T12:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43584?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
         "id": "43585",
         "startTime": "2025-12-07T14:30:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43585?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
@@ -984,9 +793,7 @@
         "id": "43521",
         "startTime": "2025-12-09T12:15:00+10:30",
         "screenName": "Cinema 1",
-        "attributes": [
-          "Cinema 1"
-        ],
+        "attributes": [],
         "bookingUrl": "https://ticketing.oz.veezi.com/purchase/43521?siteToken=hrqx63mdmcnrd0x03w95trdshr"
       },
       {
